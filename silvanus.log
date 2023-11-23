@@ -1,0 +1,310 @@
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+chromadb.telemetry.posthog - INFO - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+clickhouse_connect.driver.ctypes - INFO - Successfully imported ClickHouse Connect C data optimizations
+clickhouse_connect.json_impl - INFO - Using python library for writing JSON byte strings
+chromadb.db.duckdb - INFO - No existing DB found in silvanus_db, skipping load
+chromadb.db.duckdb - INFO - No existing DB found in silvanus_db, skipping load
+chromadb.db.duckdb - INFO - Persisting DB to disk, putting it in the save folder: silvanus_db
+root - INFO - {'source': 'silvanus.pdf', 'page': 221}
+Score: 0.7556190490722656
+--
+Role in the project \u202f 
+\uf0b7 WP1: Z&P will lead the scientific coordination of SILVANUS and will bridge the end -user requirements to the 
+technical partners. Z&P will be responsible for monitoring the technical progress acehived within the project 
+and will closely collaborate with th e technical partrners in the consortium.  
+\uf0b7 WP2: Z&P will contribute to the participatory process setup by TUZVO and will further facililate the formali-
+zation of functional requirements.  
+\uf0b7 WP7: The project outcomes will be formally published by the consortium  with contributions from Z&P. The 
+success of techonoogy intervention validated by stakeholders (resulting from WP9) outcomes will be promoted 
+across the community.  
+\uf0b7 WP9: Z&P will monitor and oversee the preparation readiness of each pilot organization. Z&P  will also partici-
+pate in the formal evaluation of the demonstration outcome.  
+\uf0b7 WP10: Z&P will contribute to the dissemination and exploitation of the SILVANUS results.  
+ 
+Associated with document Ref. Ares(2021)5870004 - 27/09/2021
+
+
+
+
+
+root - INFO - {'source': 'silvanus.pdf', 'page': 206}
+Score: 0.791854977607727
+--
+48 
+101037247  – SILVANUS – Part B  
+ 3 Implementation  
+3.1 Work Plan – Work Packages, Deliverables and Milestones  
+The SILVANUS workpl an 
+extends 42 months and the 
+activities of the project are 
+clustered into 10 work-
+packages for addressing 
+the all the phases (A, B and 
+C) of the project.  The inter-
+dependency of the project 
+activities is outlined in  Fig-
+ure 15. The te chnical activ-
+ities of the project are 
+grouped into four (4) main 
+thematic structures, with 
+WP2 focussed on the ag-
+gregation and consolida-
+tion of functional require-
+ments of SILVANUS plat-
+form. The output of WP2 
+will be fed into the devel-
+opment of Phase A and B 
+activities carried out in 
+WP3, WP4 and WP5. The 
+planning, preparedness and citizen engagement activities are grouped into WP3 (Phase A). Subsequently, the ad-
+vanced detection and response coordination activities are grouped into WP4 and WP5. The post reha bilitation activ-
+ities on forest restoration is carried out in WP6, followed by the development of policy recommendations in WP7. 
+The overall platform integration is carried out in WP8, while the large -scale demonstration activities are carried out 
+in WP9. The overall project lifecycle is structured into two main sprint cycles. The demonstration activities are 
+carried out from M12 to M42 as outlined in Section 1.3.2. The project activities will be continuously disseminated 
+and communicated within the communi ty of interdisciplinary stakeholders. The project gantt chart is also presented.  
+3.1.1  Table 3.1b:  List of work packages  
+WP 
+No Work package Title  Lead 
+Part. No  Lead Part. 
+Short Name  Person 
+Months  Start 
+Month  End 
+Month  
+1 Project coordination  1 PEGASO  205 1 42 
+2 Environmentally sustainable, resilient forest 
+models and assessment framework  46 TUZVO  345 1 30 
+3 Culture of deterrence and prevention against 
+wildfires based on sustainable forest manage-
+ment services  8 SIMAVI  395 3 36 
+4 Advanced detection capabilities  for early -
+stage detection of wildfires  20 CMCC  399 3 36 
+5 Response coordination to contain the spread 
+of wildfire  7 DELL  451 3 42 
+6 Enhanced resilience programme for forest 
+management through restoration and adapta-
+tion 48 AMIKOM  224 1 42 
+7 Policy reco mmendations on environmental 
+sustainability and forest restoration  26 AUA  233 1 42 
+8 Platform design specification, interfaces and 
+integration  3 INTRA  314 3 42 
+9 Large -scale demonstration activities of pro-
+ject outcomes  38 ASFOR  515.5 12 42 
+10 Dissemina tion and exploitation  23 MD 360 1 42 
+Figure 15  - SILVANUS WP interdependency  
+Associated with document Ref. Ares(2021)5870004 - 27/09/2021
+
+
+
+
+
+root - INFO - {'source': 'silvanus.pdf', 'page': 145}
+Score: 0.7920461297035217
+--
+D10.1 : SILVANUS dissemination and community engagement [1]
+D10.1: SILVANUS dissemination and community engagement strategy: Report on the broad strategies identified by
+consortium partners. The deliverable will also assign project representatives as liaisons to engage with rest of the IA
+project and represent project views in CSA action. [M1]
+D10.2 : Annual report on SILVANUS dissemination activities, v1 [12]
+D10.2: Annual report on SILVANUS dissemination activity, v1: The deliverable will report on the partic-ipation of
+SILVNUA consortium across key dissemination events including industrial showcases as out-lined in Section 2.2
+[M12]D10.3 : Annual report on SILVANUS dissemination activities, v2 [24]
+D10.3: Annual report on SILVANUS dissemination activities, v2: The deliverable will revise D10.2 with the
+participation of events between M12 to M24 [M24]D10.4 : Annual report on SILVANUS dissemination activities, v3 [36]
+D10.4: Annual report on SILVANUS dissemination activities, v3: The deliverable will revise D10.3 with the
+participation of events between M24 to M36 [M36]D10.5 : Report on forest landscape management services [36]
+D10.5: Report on forest landscape management services: Report on the market niche and provide a com-parative
+assessment of project outcomes. [M36]
+D10.6 : SILVANUS final report on dissemination and exploitation [42]
+D10.6: SILVANUS final report on dissemination and exploitation roadmap: Report on the consolidated activities
+carried out by the project members. Identification of key assets {M42]D10.7 : Self-sustainability business plan for Centre for Adaptation Strategies and Development (CASD) [42]
+D10.7: Self-sustainability business plan for Centre for Adaptation Strategies and Development (CASD): Report on
+the business plan for the self-sustainability of CASD. [M42]
+Schedule of relevant Milestones
+ 
+Milestone
+number18 Milestone title Lead beneficiaryDueDate (inmonths)
+Means of verification
+MS1Participatory processmethodology established.CASD management boardsetup
+45 - TUZVO 6 D2.1 D10.1
+Page 60 of 71
+Associated with document Ref. Ares(2021)5870004 - 27/09/2021
+
+
+
+
+
+root - INFO - {'source': 'silvanus.pdf', 'page': 144}
+Score: 0.8213666677474976
+--
+List of deliverables
+ 
+Deliverable
+Number14 Deliverable Title Lead beneficiary Type15Dissemination level16Due
+Date (in
+months)17
+D10.1SILVANUS
+dissemination and
+community engagement22 - MD Report Public 1
+D10.2Annual report
+on SILVANUS
+dissemination activities,v122 - MD Report Public 12
+D10.3Annual report
+on SILVANUS
+dissemination activities,v222 - MD Report Public 24
+D10.4Annual report
+on SILVANUS
+dissemination activities,v322 - MD Report Public 36
+D10.5Report on forest
+landscape managementservices
+6 - ATOS IT Report Public 36
+D10.6SILVANUS final report
+on dissemination and
+exploitation22 - MD Report Public 42
+D10.7Self-sustainability
+business plan for Centrefor Adaptation Strategiesand Development(CASD)
+22 - MD ReportConfidential, only
+for members of theconsortium (includingthe CommissionServices)
+42
+Description of deliverables
+D10.1: SILVANUS dissemination and community engagement strategy: Report on the broad strategies identified by
+consortium partners. The deliverable will also assign project representatives as liaisons to engage with rest of the IA
+project and represent project views in CSA action. [M1]
+D10.2: Annual report on SILVANUS dissemination activity, v1: The deliverable will report on the partic-ipation of
+SILVNUA consortium across key dissemination events including industrial showcases as out-lined in Section 2.2
+[M12]D10.3: Annual report on SILVANUS dissemination activities, v2: The deliverable will revise D10.2 with the
+participation of events between M12 to M24 [M24]D10.4: Annual report on SILVANUS dissemination activities, v3: The deliverable will revise D10.3 with the
+participation of events between M24 to M36 [M36]D10.5: Report on forest landscape management services: Report on the market niche and provide a com-parative
+assessment of project outcomes. [M36]
+D10.6: SILVANUS final report on dissemination and exploitation roadmap: Report on the consolidated activities
+carried out by the project members. Identification of key assets {M42]D10.7: Self-sustainability business plan for Centre for Adaptation Strategies and Development (CASD): Report on
+the business plan for the self-sustainability of CASD. [M42]
+Page 59 of 71
+Associated with document Ref. Ares(2021)5870004 - 27/09/2021
+
+
+
+
+
+root - INFO - {'source': 'silvanus.pdf', 'page': 212}
+Score: 0.8344489932060242
+--
+54 
+101037247  – SILVANUS – Part B  
+ 3.2.3  Project Meetings  
+The projec t partners will meet on a regular basis as envisaged in the table  below . To guarantee a smoother and more 
+efficient start -up of the project, the first meetings will be organised in person, to foster expedited development of the 
+SILVANUS  scientific framewor k. The following meetings are planned within the duration of the project lifespan:  
+Meeting purpose  Estimated date  Host (Partner)  
+General assembly  Every 6 months  Z&P, TUZVO, SIMAVI, CMCC  F, DELL, AUA, ASFOR  
+Remote teleconference  Monthly  Z&P  
+ 
+The above me etings will be co -located with each other to reduce the overheads and in addition to the above meetings, 
+regular meetings using teleconferencing systems will be further used. Also, additional meetings will be called as and 
+when necessary based on the unani mous consensus of the steering board members.  
+3.2.4  Quality monitoring  
+The project management system will be defined in D1.1, which will be the top document for project management 
+purposes to ensure the best quality of results. The plan will set out the organis ation for project management and 
+define the key criteria for planning and control of the technical work, the budget and the programme. This manage-
+ment handbook will be practical guideline to facilitate the management of the project for all participants. It  will detail 
+and explain all contractual rules and management procedures. It will provide useful advice and management tools, 
+which will help project participants to do what is required in due form and in due time. The following table summa-
+rised the major milestones which will be used to evaluate the success of SILVANUS . 
+ 
+3.3 Consortium as a Whole  
+The SILVANUS consortium consists of 50 partners 
+from 18 countries as presented in  Figure 19. All part-
+ners have exemplary track record of hi gh-impact inno-
+vation in technical and scientific research required to 
+achieve the project objectives. The composition of the 
+consortium has been considered to offer complemen-
+tary skill sets among the partners to collaboratively de-
+velop the environmentally sustainable forest manage-
+ment platform. The various scenarios developed for 
+modelling the cause of wildfire ignition and subsequent 
+factors influencing the spread of the wildfire will be an-
+alysed in detail across different pilot demonstration ac-
+tivities pl anned within the project.  Complementary 
+and role of partners . The SILVANUS consortium has 
+been carefully selected to incorporate the necessary 
+interdisciplinary expertise to complement the in-
+dustrial strength to achieve the project objectives. The consorti um contains a broad scope of expertise and technical 
+knowledge in the analysis of climate pattern, IoT devices and edge sensing, cloud computing, ecological and biodi-
+versity resilience, fire suppression systems and big-data analytics. A detailed overview o f each partner specific con-
+tribution to the workplan is outlined in Section 4.1  
+ 
+3.4 Resources to be committed  
+3.4.1  Other direct costs  
+A total of 2.8% of project resources are allocated to the pilot demonstration owners  for equipment and consumables. 
+In complementa ry, a total of 5.2% is allocated for travel to facilitate collaboration among national, European,  and 
+International partners. Additionally, funding is also allocated to support the collaboration with advisory board mem-
+bers representing eminent organisation s such as WWF -Brazil, leading experts on post -fire rehabilitation and forest 
+conservation.  
+P1. PEG ASO  Cost  Justification  
+Travel  €60,000 Support for advisory board, GA, conferences,  and workshops  
+Participation in 7 general assembly meeting  by the coordinator and the 
+PMO  and 2 review meeting in M18 and M42.  
+Support for 20 external advisory board members to be invited to join 
+the proj ect GA.  
+Figure 19 - SILVANUS consortium map
+
+
+
+
+
+root - INFO - {'source': 'silvanus.pdf', 'page': 184}
+Score: 0.8688976168632507
+--
+26 
+101037247  – SILVANUS – Part B  
+  
+Figure 7 - SILVANUS pilot duration  
+\uf0b7 In the requirements phase , the SILVANUS technical members will activel y engage with the stakeholder (WP2). 
+A formal consolidation of forest landscape management tools and components will be identified. A functional 
+requirement of the project platform will be drafted. Additionally, the architecture specification for the compo nent 
+integration will be defined (WP8).  
+\uf0b7 Sprint 1 : The first cycle will carry out the project’s technical activities. Each challenge outlined in the workpro-
+gramme is uniquely addressed with each of the WPs. Phase A and B activities are carried out in WP3, W P4 and 
+WP5. Phase C activities are carried out in WP6 and WP7. The outcome of the Sprint 1 will be evaluated through 
+the demonstration activities carried out in WP9.  
+\uf0b7 Sprint 2 : Following the initial feedback from the stakeholders on the effectiveness of pro ject platform in com-
+bating against wildfires, the project will undertake continued innovation to achieve the technical objectives out-
+lined in Table 1. Each of the outcome will be evaluated against the KPIs set forth in the list of s pecific objectives.  
+\uf0b7 Exploitation : Represents the last phase of the project in which the commercial positioning of each project out-
+come will be addressed. The outcome from the demonstration activities will be further utilised to identify the 
+market niche a nd position the products developed in the project to be launched in the market. A detailed business 
+plan for both individual components and joint exploitation agreement resulting from the collaboration will be 
+reported.  
+A more detailed timeline specificati on of each individual pilot duration is presented in Figure 7. Each demonstration 
+activity includes a planning phase, trial phase and assessment phase, appropriately divided into each time period.  
+1.3.2  SILVANUS  Validation and Pilots  
+The project innovation carried out will be systematically 
+demonstrated across eight (8) EU and three (3) non -EU sites. 
+An overview of the locations in which the pilot activities are 
+to take place is presented in Figure 8. The six (6 ) common 
+causes of fire ignitions  will be assessed,  and dedicated scenar-
+ios will be identified for the organisation of technological in-
+tervention. In addition to the generic category, the causes 
+listed in Table 2 will be considered . Each pilot demonstration 
+is divided into three main periods namely (i) preparation and 
+organisation;(ii) demonstration; and (iii) assessment evalua-
+tion. To achieve the demonstration, the consortium has iden-
+tified two organisation deployment to be carried  out within the 
+consortium. An organisation deployment refers to the base in-
+Figure 8 - SILVANUS pilot demonstration sites  
+Associated with document Ref. Ares(2021)5870004 - 27/09/2021
+
+
+
+
+
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+root - INFO - What is the silvanus project main goal?
+root - INFO - History:
+{'chat_history': [SystemMessage(content='\nThe human asks what the AI thinks of artificial intelligence. The AI thinks artificial intelligence is a force for good because it will help humans reach their full potential. The AI then explains that the goal of the Silvanus Project is to develop an environmentally sustainable forest management platform to prevent and contain the spread of wildfires.')]}
+
+
+root - INFO - {'question': 'What is the silvanus project main goal?', 'chat_history': [SystemMessage(content='')], 'answer': ' The goal of the Silvanus Project is to develop an environmentally sustainable forest management platform to prevent and contain the spread of wildfires.'}

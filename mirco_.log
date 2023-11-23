@@ -1,0 +1,9 @@
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/distiluse-base-multilingual-cased-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+chromadb.telemetry.posthog - INFO - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+clickhouse_connect.driver.ctypes - INFO - Successfully imported ClickHouse Connect C data optimizations
+clickhouse_connect.json_impl - INFO - Using python library for writing JSON byte strings
+chromadb.db.duckdb - INFO - loaded in 60 embeddings
+chromadb.db.duckdb - INFO - loaded in 1 collections
+chromadb.db.duckdb - INFO - collection with name langchain already exists, returning existing collection
+chromadb.db.duckdb - INFO - Persisting DB to disk, putting it in the save folder: mirco_db

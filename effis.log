@@ -1,0 +1,3290 @@
+root - INFO - Executive report 
+Andrea Camia, Tracy Durrant, Jesús San-Miguel-Ayanz  
+Joint Research Centre of the European Commission 
+Institute for Environment and Sustainability 
+Forest Resources and Climate Unit 
+T.P. 261, Via E. Fermi 1, 21020 Ispra (VA), Italy. 
+Abstract 
+The information on the causes of forest fires is of paramount importance to support the 
+environmental and civil protection policies and design appropriate prevention measure.  
+At  the  European  level  a  simple  common  scheme  with  4  fire  causes  classes  (deliberate, 
+accident/negligence, natural and unknown) has been used to  record information on fire 
+causes since 1992. 
+European  countries  use  national  schemes  which  in  most  cases  are  much  more  detailed 
+than  the  simple  4  common  classes,  but  they  are  not  harmonized  and  detailed  cross 
+country comparisons are difficult. 
+The  need  for  a  new  EU  scheme,  more  detailed  than  the  4  basic  categories  and 
+harmonized  across  European  countries,  to  be  recorded  in  the  Fire  Database  of  the 
+European  Forest  Fire  Information  System  (EFFIS),  has  been  identified  to  improve  the 
+information level and the common knowledge on the origin of forest fires in Europe. 
+The  new  scheme  has  been  conceived  to  be  applicable  with  limited  changes  to  the 
+previous  country  settings,  preserving  as  much  as  possible  the  historical  data  series  of 
+each country and exploiting at the same time as much as possible the level of detail of 
+the information available.  
+This  report  provides  a  detailed  description  of  the  new  scheme,  its  main  features  with 
+precise definition of each cause class and the mapping of the historical national systems 
+to the new harmonized system.  
+The  scheme  is  hierarchical  and  is  made  of  29  fire  cause  classes,  8  groups  and  6 
+categories. The explicit statement on the level of certainty in the attribution of the cause 
+to a fire event has been introduced as a key element in the new scheme. 
+This  harmonized  fire  cause  classification  scheme  is  expected  to  be  adopted  by  the 
+countries  participating  to  the  EFFIS  network  in  the  coming  years,  and  therefore  be 
+recorded  in  the  European  Fire  Database,  with  a  significant  added  value  for  the 
+knowledge about the origin of forest fires in Europe. 
+3 
+Contents 
+1. Background and scope ..................................................................................... 5
+2. EU level fire causes reporting requirements ........................................................ 6
+3. The new European fire causes classification scheme ............................................ 8
+3.1. Certainty of knowledge of the fire cause ...................................................... 8
+3.2. Fire causes classes, groups and categories ................................................... 9
+4. Definitions of individual fire cause classes, groups and categories ....................... 11
+5. Conversion of historical fire data of the European Fire Database ......................... 14
+6. APPENDIX – Mapping of the country systems to the new European system ........... 15
+6.1. Bulgaria ................................................................................................. 16
+6.2. Croatia .................................................................................................. 17
+6.3. Cyprus ................................................................................................... 18
+6.4. Czech Republic ....................................................................................... 19
+6.5. Estonia .................................................................................................. 21
+6.6. Finland .................................................................................................. 22
+6.7. France ................................................................................................... 23
+6.8. Germany................................................................................................ 26
+6.9. Greece................................................................................................... 27
+6.10. Hungary ................................................................................................ 28
+6.11. Italy ...................................................................................................... 29
+6.12. Latvia .................................................................................................... 31
+6.13. Lithuania................................................................................................ 32
+6.14. Poland ................................................................................................... 33
+6.15. Portugal ................................................................................................. 36
+6.16. Romania ................................................................................................ 39
+6.17. Slovakia ................................................................................................. 41
+6.18. Slovenia ................................................................................................ 42
+6.19. Spain .................................................................................................... 44
+6.20. Sweden ................................................................................................. 47
+6.21. Switzerland ............................................................................................ 48
+6.22. Turkey ................................................................................................... 49
+4 
+Harmonized classification scheme of fire causes in the EU 
+1. Background and scope 
+The  European  Forest  Fire  Information  System  (EFFIS)  has  been  established 
+jointly  by  the  European  Commission  (EC)  services  Directorate  General  for 
+Environment and Joint Research Centre (JRC) and the relevant fires services  in 
+the EU Member States and European countries.  
+EFFIS  is  the  EC  focal  point  of  information  on  forest  fires  aiming  to  support  the 
+national services in charge of the protection of forests against fires in the EU and 
+neighbouring  countries,  and  also  to  provide  the  EC  services  such  as  the 
+Monitoring  and  Information  Centre  (MIC)  of  Civil  Protection  and  the  European 
+Parliament with up to date and harmonized information on forest fires in Europe. 
+Research activities for the development of the system initiated in 1998 and the 
+first  EFFIS  operations  were  in  the  year  2000.  In  2003,  EFFIS  was  officially 
+established in the context of Forest Focus Regulation1. An EC Group of Expert on 
+Forest  Fires  was  established,  with  representatives  from  the  EC  and  national 
+services  that  meet  regularly  to  work  jointly  on  EFFIS  and  share  information  on 
+forest fires in Europe.  
+A key component of EFFIS is the European Fire Database, containing forest fire 
+information  compiled  by  countries  members  of  the  EFFIS  network.  Fire  data 
+provided each year by national authorities are checked, stored and managed by 
+JRC  within  the  fire  database.  The  database  stores  key  information  on  location, 
+time,  size  and  cause  of  over  2  million  individual  fire  events,  recorded  in  22 
+European countries over the last 8 to 32 years (depending on country). 
+The  first  steps  to  create  a  common  forest  fire  database  in  Europe  were  taken 
+under the Regulation 2158/922 (now expired), which set up an action framework 
+focussing  mainly  on  measures  for  the  prevention  of  forest  fires.  Under  this 
+regulation,  a  first  forest  fire  information  system,  referred  to  as  the  Common 
+Core  Database,  was  established  in  order  to  collect  information  on  forest  fires, 
+their  causes  and  to  improve  the  understanding  of  forest  fires  and  their 
+prevention. After Forest Focus Regulation  of 2003, the Common Core Database 
+was transferred to the EFFIS. Handed over to and further developed by the JRC 
+it was re-named the European Fire Database. 
+The  European  Parliament  (EP)  in  its  resolution  of  September  20063 noted  that, 
+despite  the  fact  that  the  EFFIS  had  managed  to  harmonize  data  on  fires  within 
+Member States and to provide updated information on the natural risk factors, it 
+did  not  permit  investigation  of  the  anthropogenic  origins,  did  not  determine 
+socioeconomic  risk  factors  and  did  not  evaluate  the  repercussions  of  fires.  The 
+EP therefore called on the European Commission to submit a proposal to correct 
+these shortcomings.   
+1 Regulation  (EC)  No  2152/2003  of  the  European  Parliament  and  of  the  Council  of  17 
+November  2003  concerning  monitoring  of  forests  and  environmental interactions  in  the 
+Community (Forest Focus). 
+2 Council Regulation (EEC) No 2158/92 of 23 July 1992 on protection of the Community's 
+forests against fire 
+3 European Parliament resolution on forest fires and floods P6_TA(2006)0349 
+5 
+Harmonized classification scheme of fire causes in the EU 
+Following the EP recommendations, the further development of EFFIS has been 
+ensured through a grant from the European Parliament on forest protection and 
+conservation.  In  this  context  a  tender  was  launched  by  JRC  in  2008  and  a 
+service  contract  was  awarded  to  a  consortium 4 with  the  aim  of  developing  a 
+common framework for harmonized classification and reporting on fire causes in 
+Europe and the definition of main factors affecting fire occurrence in the different 
+European regions. 
+Among  the  outcome  of  the  study  there  has  been  a  proposal 5  of  a  common 
+classification  scheme  of  fire  causes  to  be  submitted  and  discussed  for  adoption 
+by  the  Member  States.  Thus,  as  a  follow  up  of  the  study,  the  classification 
+scheme has been presented and discussed in various meetings of the EC Expert 
+Group on Forest Fires, where the main national forest fire management services 
+of the European countries are represented.  
+After  some  amendments  to  the  initial  proposal,  a  harmonized  classification 
+scheme of fire causes has been accepted in  2012 for adoption  by the countries 
+as  a  common  mean  to  record  fire  causes  when  reporting  national  data  to  the 
+European Fire Database.  
+This  report  intends  to  summarize  the  rationale  and  provide  a  in  depth 
+description of the harmonized scheme for fire causes reporting in Europe. 
+2. EU level fire causes reporting requirements 
+The  information  on  the  causes  of  forest  fires  is  of  paramount  importance  to 
+support  the  environmental  and  civil  protection  policies  and  design  appropriate 
+prevention measure.  
+the 
+following 
+European countries use national schemes for classifying forest fire causes. In the 
+Common  Core  fire  database  a  simple  common  EU  scheme  was  adopted  which 
+considered 
+fire  causes:  deliberate, 
+four  categories  of 
+accident/negligence,  natural  and  unknown.  The  European  Fire  Database  of 
+EFFIS, which has taken over the Common Core fire database, stores both the EU 
+scheme and the national cause categories. The latter in most countries are much 
+more detailed than the simple 4 EU categories, but they are not harmonized and 
+detailed comparisons are difficult. 
+Hence the need of a new EU scheme, more detailed than the 4 basic categories 
+and  harmonized  across  European  countries,  has  been  identified  to  improve  the 
+4  JRC  Contract  number  384340  of  4th  December  2008.  Members  of  the  Consortium: 
+CEMAGREF  (lead  contractor)  (France),  ONF  (France),  Fraunhofer-IAIS  (Germany), 
+IBIMET-CNR  (Italy),  FRI/IBL  (Poland),  NICIF  (Portugal),  SFI/GIS  (Slovenia),  GMV 
+(Spain) 
+5 Ganteaume  A.,  Jappiot  M.,  Duché  Y.,  Savazzi  R.,  Bonora  L.,  Conese  C.,  Piwnicki  J., 
+Lourenço L., Bento-Gonçalves A., M., Ferreira A., Suarez-Beltran J. (2010) Proposal of a 
+harmonized classification scheme for EU. Deliverable D3 of JRC Contract number 384340 
+“Determination  of  forest  fire  causes  and  harmonization  for  reporting  them”.  European 
+Commission, Joint Research Centre, 68 p. 
+6 
+Harmonized classification scheme of fire causes in the EU 
+information  level  and  the  common  knowledge  on  the  origin  of  forest  fires  in 
+Europe. 
+The new scheme has been conceived to be applicable with limited changes to the 
+previous  country  settings,  preserving  as  much  as  possible  the  historical  data 
+series of each country and exploiting at the same time as much as possible the 
+level  of  detail  of  the  information  available.  A  mapping  of  the  historical  national 
+systems to the new harmonized system was also realized to the possible extent. 
+Because  the  level  of  detail  of  classified  fire  causes  is  quite  varied  among 
+countries, and the causes of forest fires may also differ significantly, the system 
+has  been  designed  in  a  hierarchical  way,  providing  in  this  way  some  flexibility 
+and facilitating the mapping of the different systems currently used in Europe to 
+the common scheme. 
+A key feature of the new scheme is that common fire causes categories have to 
+be widely agreed/recognized;  in addition clear and unambiguous definitions are 
+integral part of the new classification scheme. 
+Identifying  the  origin  and  cause  of  a  forest  fire  is  not  easy;  it  is  not  always 
+possible and implies in all cases significant efforts and skill. Certain causes may 
+also  have  legal  implications  within  the  country,  with  additional  complications 
+when  responsibilities  have  to  be  identified.  The  harmonized  fire  causes 
+classification  scheme  for  EU  is  aimed  to  enhance  reporting  for  statistical  and 
+scientific purposes, thus it is not related to legal responsibility and prosecution.  
+Nevertheless a key feature that has been introduced in the scheme is the explicit 
+statement  of  the  confidence  level  of  the  knowledge  of  a  fire  cause  and  the 
+exclusion of any purely “guessed” fire cause. In the new scheme it is requested 
+that  the  cause  of  a  fire  is  reported  only  if  targeted  investigations  have  been 
+carried  out;  the  cause  is  qualified  as  “certain”  only  if,  after  investigation,  the 
+ignition point of the fire has been found and the cause has been identified with 
+no doubts. More details are provided in the following section.  
+7 
+Harmonized classification scheme of fire causes in the EU 
+3. The new European fire causes classification scheme  
+In  the  new  European  fire  cause  classification  scheme,  the  cause  of  each  fire 
+event has to be reported with 2 entries (fields):  
+a) Certainty of knowledge of the fire cause 
+b) The fire cause category 
+3.1. Certainty of knowledge of the fire cause 
+The new scheme is based on the objective assessment of the fire cause through 
+dedicated  investigations  which  entail  the  identification  of  the  point  of  origin  of 
+the fire (ignition point).  
+If the point of ignition is detected (and possibly also the ignition device), the fire 
+cause  might  be  identified  and  reported  in  the  database  as  certain  (however  in 
+some  cases,  even  with  known  point  of  ignition,  the  cause  cannot  be  identified 
+and  remains  unknown).  If  not,  the  fire  cause  is  to  be  reported  as  either 
+uncertain or unknown.  
+If the point of ignition cannot be precisely specified remaining vaguely identified 
+while  different  elements  from  the  investigation  support  specific  assumptions 
+about the fire cause, then the fire cause can be reported as uncertain. 
+If  the  point  of  ignition  is  not  detected,  the  fire  cause  is  to  be  reported  in  the 
+database as unknown.   
+A summary of the above is given with the diagram in Figure 1, which illustrates 
+a dichotomous key to assess the level of certainty in the identification of the fire 
+causes to be reported in the fire database. 
+Figure 1. Key to the level of certainty of fire causes identification (details in the text) 
+8 
+Harmonized classification scheme of fire causes in the EU 
+The  possible  entries  in  the  database  item  “certainty  of  knowledge”  are  the 
+following: 
+Code 
+1
+2
+3
+4
+5
+Description  
+Information not given (level of certainty not specified) 
+Cause  not  investigated  (unknown  because  investigation 
+not carried out) 
+Cause not found (unknown because investigation carried 
+out but cause not found) 
+Cause  uncertain  (point  of  origin  not  found  precisely  or 
+cause  assumed  after  a  number  of  different  elements 
+from the investigation) 
+Cause certain (point of origin found and cause positively 
+determined after investigation) 
+Code  1  is  the  default,  and  it  is  used  when  the  information  on  the  level  of 
+certainty is not provided. Codes 2 and 3 are variations of “unknown”.  
+3.2. Fire causes classes, groups and categories 
+The new fire causes classification scheme has 3 hierarchical levels.  
+At  the  level  with  higher  detail  there  are  29  fire  cause  classes,  organized  into  8 
+groups which in turns correspond to 6 generic categories.  
+The 6 categories of the upper level are similar to the former “Common Core” EU 
+scheme and are the following: 
+1. Unknown 
+2. Natural 
+3. Accident 
+4. Negligence 
+5. Deliberate 
+6. Rekindle 
+In this new scheme the former accident/negligence cause has been split into two 
+categories  and  a  new  generic  category  “Rekindle”  for  restarting  fires  has  been 
+introduced. 
+Within  each  category,  different  groups  and  classes  define  the  lower  2  levels  of 
+the  classification.  Table  1  shows  the  complete  list  of  classes,  groups  and 
+categories of the new scheme.  The numerical code of each item is also given in 
+the table. 
+The precise description of each class is given in section 4. 
+9 
+Harmonized classification scheme of fire causes in the EU 
+Table 1. Classes, groups and categories of the harmonized fire causes classification scheme  
+CATEGORY 
+100 UNKNOWN 
+200 NATURAL  
+GROUP 
+100 Unknown 
+200 Natural 
+300 ACCIDENT 
+300 Accident 
+400 NEGLIGENCE 
+410 Use of fire 
+420 Use of glowing objects 
+500 DELIBERATE 
+510 Responsible (arson) 
+520 Irresponsible 
+600 REKINDLE 
+600 Rekindle 
+CLASS 
+100 Unknown 
+201 Lightning 
+202 Volcanism 
+203 Gas emission 
+301 Electrical power 
+302 Railroads (Railways) 
+303 Vehicles 
+304 Works 
+305 Weapons (firearms, explosives, etc.) 
+306 Self-ignition (auto-combustion)  
+307 Other accident 
+411 Vegetation management 
+412 Agricultural burnings 
+413 Waste management 
+414 Recreation 
+415 Other negligent use of fire 
+421 Fireworks, firecrackers and distress flares 
+422 Cigarettes 
+423 Hot ashes 
+424 Other use of glowing object 
+511 Interest (profit) 
+512 Conflict (revenge) 
+513 Vandalism 
+514 Excitement (incendiary) 
+515 Crime concealment 
+516 Extremist 
+521 Mental illness 
+522 Children 
+600 Rekindle 
+10 
+Harmonized classification scheme of fire causes in the EU 
+4. Definitions of individual fire cause classes, groups and 
+categories 
+In what follows definitions of each fire causes category, group and class are given, with 
+the corresponding numerical codes.  
+100 UNKNOWN 
+Wildfire with no cause found. 
+200 NATURAL  
+Any wildfire caused by natural origin, with no human involvement in any way. 
+201 Lightning 
+Wildfire caused directly or indirectly by lightning. 
+202 Volcanism 
+Wildfire caused by volcanism. 
+203 Gas emission 
+Wildfire  caused by natural emissions of gas (e.g. coming from peat bog) that can 
+self-ignite. 
+300 ACCIDENT 
+Wildfire  unintentionally  and  indirectly  caused  by  human  without  use  of  fire,  connected 
+neither to will nor to negligence rather to fatality.  
+301 Electrical power 
+Wildfire  caused  by  sparks  due  to  failure  of  electric  lines  or  other  electric  wirings: 
+short-circuits  due  to  contact  between  two  lines  or  between  line  and  vegetation  or 
+bird, fall of the line, etc. 
+302 Railroads (Railways) 
+Wildfire caused by sparks emitted by train brakes or fall of catenaries. It has to be 
+linked  with  the  operation  of  trains.  Fires  lit  intentionally  or  not  by  passengers  or 
+railway  employees  (by  smoking,  managing  vegetation,  etc.)  are  not  classified  in 
+this  category  and  have  to  be  classified  in  the  category  corresponding  to  “what 
+these persons did” to set the fire (and not to “where they were”). 
+303 Vehicles 
+Wildfire  caused  by  exhausts  (expulsion  of  glowing  carbon  deposits,  hot  catalytic 
+converter)  and  brakes  of  vehicles  travelling  along  the  road,  or  by  road  incidents 
+(burning motor for example) or traffic accidents 
+304 Works 
+Wildfire caused by sparks emitted by engines and machinery (such as chainsaw) in 
+industry, forestry and agriculture or people at work (explosions, welding, grinding, 
+smouldering)  or  by  ignition  of  flammables  and  vapours  during  works  in  industrial 
+activities. 
+11 
+Harmonized classification scheme of fire causes in the EU 
+305 Weapons (firearms, explosives, etc.) 
+Wildfire caused either by military exercises (firing, explosions) or by citizens using 
+firearms  (in  hunting  activities  for  instance)  or  explosion  due  to  explosives  during 
+works.  This  class  takes  also  into  account  the  fires  set  after  explosions  due  to 
+ammunitions from I and II World Wars buried underground. 
+306 Self-ignition (auto-combustion)  
+Wildfire  caused  by  self-ignition  of  vegetation  wastes  and  other  products  left  in 
+piles. 
+307 Other accident 
+Wildfire  caused  by  other  accidental  cause  (Other  technical  incidents)  than  those 
+previously  defined.  In  this  class  are  coded  the  wildfires  due  to  “Sun”  because  the 
+sun alone does not allow the ignition but needs an object like a piece of glass. Also 
+included  are  causes  such  as  “Glass”,  “Friction  energy”,  “thermal  reaction  of 
+chemicals” or “Self-ignition of coal”. 
+400 NEGLIGENCE 
+Wildfire unintentionally caused by human using fire or glowing object, not connected to 
+fatality  
+410 Use of fire 
+Wildfire unintentionally set by people making fire especially for cleaning or recreation. 
+The  difference  between  “deliberate”  and  this  category  is  that  the  fire  is  initially 
+voluntarily set for a specific purpose and not in order to destroy the natural area. To 
+be classified in this category, the fire has to escape and get out of control.   
+411 Vegetation management 
+Wildfire  caused  by  any  kind  of  vegetation  burnings  for  private,  forestry,  pastoral 
+(pasture  regeneration)  purposes  including  prescribed  burnings,  burning  of  slashes 
+or of piles of vegetal waste but except for agricultural purposes. 
+412 Agricultural burnings 
+Wildfire caused by all types of agricultural burnings (stubble burnings, etc.). 
+413 Waste management 
+Wildfire caused by garbage burnings in official or illegal dumps (dunghill) including 
+private, industrial and commercial. 
+414 Recreation 
+Wildfire  caused  by  people  engaged  in  a  recreational  activity  (vacationing,  fishing, 
+picnicking,  non-commercial  berry  picking,  hiking,  and  hunting)  setting  barbecues, 
+bonfires and campfires of any kind (for cooking, heating, etc). 
+415 Other negligent use of fire 
+Wildfire caused by other use of fire than those previously defined. In this class are 
+coded the wildfires due to “bonfires at work” “facility fires” and “Candles”. 
+420 Use of glowing objects 
+Wildfire unintentionally set by people using glowing objects such as (i) fireworks, (ii) 
+cigarettes, (iii) hot ash handling by residents or (iv) during working activities such as 
+apiculture, fumigation or disinfection or when expulsion of firebrands out of chimney. 
+421 Fireworks, firecrackers and distress flares 
+Wildfire  caused  by  fireworks  with  or  without  preventive  measures,  by  firecrackers 
+and by distress flares regardless of who lit it. 
+12 
+Harmonized classification scheme of fire causes in the EU 
+422 Cigarettes 
+Wildfire  caused  by  cigarettes  and  tobacco  pipe  regardless  of  the  activity  or  the 
+location of the smoker. It includes the fires set by the match used for lighting the 
+cigarette  and  negligently  thrown  away  by  the  smoker,  but  not  cases  where  a 
+cigarette or matches have been used to set an arson fire. 
+423 Hot ashes 
+Wildfire caused by hot ash handling by people after a barbecue or a fire. This class 
+is  related  to  recreational  activities.  Hot  ashes  related  to  work  are  classified in  the 
+following class. 
+424 Other use of glowing object 
+Wildfire  caused  by  other  use  of  glowing  object  than  those  previously  defined.  In 
+this  class  are  coded  wildfires  due  to  working  activities  such  as  apiculture, 
+fumigation  or  disinfection  or  due  to  glowing  firebrands  expulsed  out  of  chimneys 
+regardless of the building. 
+500 DELIBERATE (synonyms: intentional, voluntary)  
+Wildfire intentionally caused by human with the use of fire. 
+510 Responsible (arson) 
+Wildfire  wilfully  ignited  by  people  over  the  legal  age,  which  burns  or  spreads  to 
+vegetation or property without consent of the owner.   
+511 Interest (profit) 
+Wildfire  set  for  profit,  either  directly  for  monetary  gain  or  from  a  goal  other  than 
+money: 
+inventory, 
+employment,  parcel  clearance,  competition  for  agricultural,  forestry,  hunting  and 
+pastoral  purposes  to  frighten  wildlife,  to  get  a  job  in  the  fire  fighting  area,  to 
+change land-uses or to get a better salary as fire-fighter, etc. 
+liquidate  property,  dissolve  business, 
+insurance, 
+fraud, 
+512 Conflict (revenge) 
+Wildfire set in retaliation for real or perceived injustice or wrong: 
+- Personal revenge: (to retaliate for a one-to one or personal grievance, argument, 
+fight, personal affront or any of infinite arrays of events perceived by the offender 
+to warrant retaliation). 
+- Societal retaliation: (in revenge against the society that the author perceives has 
+wronged him). 
+- Institutional: (fire against institutions or use of fire to settle grievances with the 
+institution and to intimidate those associated with the institution). 
+- Group retaliation: (fire as expression of anger towards the group or its members 
+rather than anger at a specific individual within the group). 
+- Intimidation. 
+513 Vandalism 
+Malicious or mischievous fire setting that results in damage to property: wilful and 
+malicious mischief or peer group pressure. 
+514 Excitement (incendiary) 
+Wildfires set to gain attention and to meet the needs  of being important. Seeking 
+of  thrill,  attention,  recognition,  relief  of  boredom.  Includes  fires  lit  in  order  to 
+admire the spectacle of extinguishing means. 
+515 Crime concealment 
+Wildfire set to hide or conceal the primary crime activity: murder, suicide, breaking 
+and entering, embezzlement, larceny, destroying records. Fires set as diversionary 
+tactic fall into this category. 
+13 
+Harmonized classification scheme of fire causes in the EU 
+516 Extremist 
+Wildfire set to further social, political or religious causes: terrorism, discrimination, 
+riots/civil disturbance. 
+520 Irresponsible 
+Wildfire caused by people not responsible for their actions because under legal age or 
+mentally ill. 
+521 Mental illness 
+Wildfire caused by people in case of pyromania or other mental illnesses. 
+522 Children 
+Wildfire set by children (under legal age) for game or entertainment. 
+600 REKINDLE 
+Wildfire caused by re-ignition of a previous fire, due to latent heat or embers. 
+5. Conversion of historical fire data of the European Fire 
+Database  
+The new scheme should be adopted by the countries participating to the EFFIS network 
+in the coming years. To ensure the continuity of the historical records, a conversion from 
+the  current  country  schemes  to  the  new  European  scheme  has  been  carried  out  in  the 
+European Fire Database.  
+In  the  Appendix  the  mapping  adopted 
+for  each  country,  and  therefore  the 
+correspondence between the European and the country scheme, is detailed together with 
+the main results of the conversion made. 
+It  is  inevitable  that  there  is  not  an  exact  1:1  correspondence  between  every  country 
+cause category and the new codes. In some cases  the country codes could be assigned 
+to  more  than  one  of  the  new  EU  codes.  In  other  cases  the  country  codes  made  a 
+distinction that is not present in the EU codes. 
+In  cases  where  one  local  cause  could  be  mapped  to  several  possible  new  causes,  the 
+most likely cause was chosen and used in all cases for historical data.  
+In cases where several local causes mapped to a single new cause, the conversion  was 
+simpler.  The  original  country  cause  was  also  retained  in  the  database  to  keep  all  the 
+information available about the fire. 
+14 
+Harmonized classification scheme of fire causes in the EU 
+6. APPENDIX – Mapping of the country systems to the 
+new European system 
+In  what  follows  results  of  the  conversion  of  historical  fire  data  of  the  European  Fire 
+Database are detailed for each country in the database.  
+Due  to  the  semantic  uncertainty  in  the  conversion  of  some  cause  classes,  a  number  of 
+special codes were introduced for the conversion of historical fire data.  
+Most  of  these  are  variations  of  the  “unknown”  category,  allowing  the  fire  causes  to  be 
+distinguished  between  those  cases  where  an  investigation  was  made  and  no  known 
+cause was found, and those where for some other reason the fire cause (which might be 
+known) could not be properly elaborated.  
+These codes are detailed in the table below. 
+Code value 
+1000 
+1001 
+1002 
+1003 
+1004 
+Rationale 
+No  information  (cause  might  have  been  known  but  was  never 
+given) 
+No  country  code,  and  old  EU  code  3  –  either  accident  or 
+negligence but no way to determine which 
+No country code and invalid EU code (not 1-4) 
+Country  code  given  without  description  –  impossible  to  tell  what 
+the cause was 
+Country cause code given as “other known reason” (i.e. reason is 
+known but not specified) 
+It  is  hoped  that  these  special  codes  will  be  rarely  used  for  the  future,  as  the  new 
+European codes will be adopted. 
+15 
+Harmonized classification scheme of fire causes in the EU 
+6.1. Bulgaria 
+The  country  cause  scheme  is  a  non-hierarchical  list  of  17  causes.  The  country  codes 
+were  mapped  to  the  new  scheme  and  records  stored  in  the  European  Fire  Database 
+(2005-2010) were converted as shown in Table 2. 
+Table 2: Mapping of the national fire causes classification scheme of Bulgaria to the new European 
+scheme and conversion of fires in the database 2005-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+18 Unknown 
+731  100 Unknown 
+Cause 
+Count 
+Cause 
+17 Other Known Reason 
+2 Lightning 
+6 Electric Shock  
+272 
+1004 Unknown (Reason known but not 
+specified) 
+39  201 Lightning 
+56  301 Electrical power 
+305 Weapons (firearms, explosives etc.) 
+15 
+5 Transport-technological sparks 
+3 Military shooting 
+4 Explosion works 
+10 Burned Pastures 
+14 Workers at Open Air 
+9 Burned stubble/thatches 
+8 Dunghill 
+12 Tourists 
+7 Cigarette 
+11 Deliberate or Arson 
+13 Hunters 
+302 Railroads (railways) 
+303 Vehicles 
+304 Works 
+307 Other accident 
+46 
+15
+- 
+706  411 Vegetation management 
+53
+304 Works 
+411 Vegetation management
+728  412 Agricultural burnings 
+65  413 Waste management 
+109  414 Recreation 
+232  422 Cigarettes 
+147  510 Deliberate: Responsible 
+411 Vegetation management 
+511 Interest (profit) 
+512 Conflict (revenge) 
+4
+Count 
+731 
+272 
+39 
+56 
+46 
+(code 
+300)
+706 
+- 
+53 
+728 
+65 
+109 
+232 
+147 
+- 
+4 
+- 
+8
+30
+15 Pyromaniac/Psychopath 
+16 Children 
+8 521 Mental illness 
+30 522 Children 
+Notes 
+\uf0b7 The  category  “Hunters”  is  now  split  into  3  possible  new  cause  categories  depending 
+on  the  motivation  of  the  hunters:  411  if  it  is  to  burn  the  vegetation  to  facilitate 
+hunting;  511  if  for  interest  and  512  if  as  a  result  of  conflict.  For  conversion  of  the 
+historical data, where motivation is unknown, the cause 511 (Interest) was chosen as 
+the most likely reason. This affects only 4 fires in the database. 
+\uf0b7 “Transport/technological  sparks”  could  be  302  (Railroads),  303  (Vehicles),  304 
+(Works)  or  307  (Other  accident).  Since  these  causes  all  come  under  the  first  level 
+category  Accident,  the  46  fires  in  the  database  with  this  cause  were  coded  300 
+(Accident). 
+\uf0b7 “Workers  at  Open  Air”  could  be  304  (Works)  or  411  (Vegetation  Management).  The 
+53 fires in this category were assigned the code 411, as the most likely cause. 
+\uf0b7 For all the other fires there was a 1:1 correspondence between the national and new 
+causes.  
+\uf0b7 “Military  shooting”  and  “Explosion  works”  are  merged  into  the  new  category  305 
+(Weapons). No fires had been assigned to Explosion works in the Bulgarian data. 
+16 
+Harmonized classification scheme of fire causes in the EU 
+6.2. Croatia 
+The country cause scheme supplied to the European Fire Database for the period 1996-
+2007  corresponds  to  the  old  EU  4-point  code  with  the  addition  of  the  single  extra 
+category “By Child”. 
+Table 3: Mapping of the national fire causes classification scheme of Bulgaria to the new European 
+scheme and conversion of fires in the database 1996-2007 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Unknown 
+<missing> 
+Natural 
+Accident/negligence 
+Deliberate or Arson 
+By child 
+Notes  
+Count 
+12929  100 Unknown 
+Cause 
+1  1000 Unknown (No information) 
+436  200 Natural 
+300 Accident 
+37078 
+400 Negligence 
+3917  500 Deliberate 
+502  522 Children 
+Count 
+12929 
+1 
+436 
+37078 
+(code 
+1001) 
+3917 
+502 
+\uf0b7 The category “Accident/Negligence” should be split in the future into the two separate 
+cause codes 300 (Accident) and 400 (Negligence). For conversion of the existing data, 
+the special code 1001 had to be used. 
+17 
+Harmonized classification scheme of fire causes in the EU 
+6.3. Cyprus 
+Only the 4 EU codes (Unknown, Natural, Accident/Negligence, Deliberate) were supplied 
+up to 2004. From 2005 onwards a 14 point national code was used. 
+Table 4: Mapping of the national fire causes classification scheme of Cyprus to the new European 
+scheme and conversion of fires in the database 2000-2004 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+Unknown 
+Natural 
+Accident/negligence 
+286  100 Unknown 
+44  200 Natural 
+300 Accident 
+92 
+400 Negligence 
+Deliberate or Arson 
+1053  500 Deliberate 
+Count 
+286 
+44 
+92 
+(code 
+1001) 
+1053 
+Table 5: Mapping of the national fire causes classification scheme of Cyprus to the new European 
+scheme and conversion of fires in the database 2005-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+0 Unknown 
+1184 Other human activities 
+1100 Natural (Lightning) 
+1181 Use of electrical equipment 
+1183 Short Circuit of high voltage 
+electric power lines 
+1130 Military activities 
+1160 Residential activities 
+1170 Forestry activities 
+1110 Agricultural activities 
+1120 Burning of rubbish (in rubbish 
+dumps) 
+1150 Picnickers/Travellers 
+1182 Rally 
+1140 Hunting activities 
+1200 Deliberate (Arson) 
+Notes  
+77  100 Unknown 
+7  1001 Accident/Negligence 
+64  201 Lightning 
+9 
+16 
+301 Electrical power 
+29  305 Weapons (firearms, explosives etc.) 
+18  400 Negligence 
+2  411 Vegetation management 
+159  412 Agricultural burnings 
+14  413 Waste management 
+74 
+1 
+414 Recreation 
+13  415 Other negligent use of fire 
+138  500 Deliberate 
+Count 
+77 
+7 
+64 
+25 
+29 
+18 
+2 
+159 
+14 
+75 
+13 
+138 
+\uf0b7 In  the  data  from  2000-2004  the  special  code  1001  was  used  for  the  fires  labelled 
+“Accident/Negligence” 
+\uf0b7 National  codes  1150  (Picnickers/Travellers)  and  1182  (Rally)  were  merged  into  the 
+single new cause category 414 (Recreation). 
+\uf0b7 National  codes  1181  (Use  of  electrical  equipment)  and  1183  (Short  Circuit  of  high 
+voltage  electric  power  lines)  were  merged  into  the  single  new  cause  code  301 
+(Electrical Power). 
+\uf0b7 The  national 
+code  1184 
+(Other  human  activities)  was 
+interpreted  as 
+“Accident/Negligence” and the special code 1001 was applied. 
+18 
+Harmonized classification scheme of fire causes in the EU 
+6.4. Czech Republic 
+The  CZ  national  fire  data  uses  a  detailed  60  point  list  of  fire  causes.  These  were  more 
+detailed  than  the  new  EU  classification,  so  several  categories  were  merged.  Of  the  60 
+national cause codes, 29 were found in the historical fire data. The national cause codes 
+were mapped as shown in Table 6. 
+Table 6: Mapping of the national fire causes classification scheme of Czech Republic to the new 
+European scheme and conversion of fires in the database 2004-2008 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+0 Unsolved, still under investigation 
+5 No further investigation 
+Count 
+839 
+112 
+100 Unknown 
+Cause 
+11 
+1004 Unknown 
+(Reason known but not specified) 
+2  200 Natural 
+201 Lightning 
+303 Vehicles 
+Count 
+951 
+11 
+2 
+46 
+26 
+99 Other causes (exceptional) 
+93 Natural disasters 
+90 Lightning/buildings with lightning 
+conductors 
+91 Lightning/buildings without lightning 
+conductors 
+92 Lightning - other 
+56 Sparks from exhaust / brakes 
+94 Traffic accidents 
+24 Use of flammable liquids, gases 
+27 Welding, cutting, defrosting 
+28 Neglect of safety regulations 
+29 Negligence, error, incorrect control 
+50 Technical failures 
+51 Incorrect installation 
+52 Incorrect maintenance 
+53 Glowing materials, products 
+54 Foreign material in machine 
+59 Other changes of operational 
+parameters 
+70 Gas explosion 
+71 Flammable liquids explosion 
+72 Dust explosion 
+74 Explosions of pressure vessels, 
+boilers 
+80 Flammable subs near spraying 
+machines 
+81 Flammable subs near pumping 
+devices 
+82 Flammable subs near steeping bowls 
+83 Flammable subs near long-distance 
+piping and reservoirs 
+84 Cementing of flooring materials 
+85 Production of flammable and 
+explosive materials 
+86 Handling of flammable and explosive 
+materials, chemical cleaning and 
+producing alcohol 
+87 Storing and preservation of 
+flammable and explosive materials 
+89 Other (flammable substances) 
+- 
+- 
+46 
+22 
+4 
+- 
+3 
+25 
+134 
+14 
+- 
+- 
+- 
+5 
+20 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 
+19 
+304 Works 
+203 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+1  305 Weapons (firearms, explosives etc.) 
+305 Weapons (firearms, explosives etc.) 
+421 Fireworks, firecrackers and distress 
+flares 
+2 
+Count 
+1 
+2 
+- 
+306 Self-ignition (auto combustion) 
+12 
+73 Explosion of explosives 
+95 Military exercise, fireworks 
+60 Self-ignition of agricultural products 
+61 Coal self-ignition 
+62 Oil and grease self-ignition 
+63 Self-ignition of chemicals 
+64 Self-ignition of chemical products 
+69 Other self-ignition (e.g. waste) 
+22 Incorrect manipulation with heaters 
+23 Flammable material near heaters 
+40 Technical failure of heaters 
+41 Bad conditions of heater/smoke-flue 
+42 Incorrect place/installation of heater 
+43 Other failures of heaters 
+55 Discharge of static electricity 
+57 Friction, overheating 
+21 Setting fires, grass burning 
+25 Use of naked flame 
+20 Smoking 
+26 Glowing ashes handling 
+30 Improper construction of chimney 
+31 Walled-up timber in chimney 
+32 Gaps in chimney 
+33 Sparks from chimney, soot ignition 
+10 Arson - offender identified 
+11 Suicidal intentions 
+13 Arson - offender unidentified 
+12 Children up to 15 years 
+1 
+- 
+- 
+4 
+- 
+7 
+1 
+- 
+- 
+- 
+- 
+- 
+- 
+1 
+- 
+- 
+- 
+- 
+10 
+1 
+175 
+307 Other accident 
+1102  412 Agricultural burnings 
+81  415 Other negligent use of fire 
+858  422 Cigarettes 
+10  423 Hot ashes 
+424 Other use of glowing object 
+- 
+2 
+1102 
+81 
+858 
+10 
+186 
+93 
+500 Deliberate 
+93  522 Children 
+20 
+Harmonized classification scheme of fire causes in the EU 
+6.5. Estonia 
+No local fire cause codes are supplied with the data; only the 4 EU categories (Unknown, 
+Natural, Accident/Negligence, Deliberate)  are  supplied. These  were assigned new  cause 
+codes as shown in Table 7. 
+Table 7: Mapping of the national fire causes classification scheme of Estonia to the new European 
+scheme and conversion of fires in the database 2005-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+Unknown 
+Natural 
+Accident/negligence 
+Deliberate or Arson 
+Notes  
+199  100 Unknown 
+5  200 Natural 
+300 Accident 
+252 
+400 Negligence 
+69  500 Deliberate 
+Count 
+199 
+5 
+252 
+(code 
+1001) 
+69 
+\uf0b7 The category “Accident/Negligence” should be split in the future into the two separate 
+cause codes 300 (Accident) and 400 (Negligence). For conversion of the existing data, 
+the special code 1001 had to be used. 
+21 
+Harmonized classification scheme of fire causes in the EU 
+6.6. Finland 
+The national Finnish fire cause classification scheme consists of 31 causes. 
+Table 8: Mapping of the national fire causes classification scheme of Finland to the new European 
+scheme and conversion of fires in the database 2005-2010 
+Fire causes and number of fires recorded 
+under the national scheme
+Fire causes and number of fires recorded 
+under the new European scheme
+Cause 
+Count 
+Cause 
+99 Cannot be determined 
+<Missing code>
+98 Other causes 
+69 Other natural causes 
+61 Lightning 
+12 Hot work 
+21 False use of machine or device 
+22 Error or negligence in maintenance 
+of electrical device or its installation 
+23 Failure or negligence in maintenance 
+of machine or device 
+41 Production process failure 
+42 Spark from machine or device 
+43 Mechanical spark, incendive spark 
+52 Spontaneous ignition 
+1 Unsupervised cooking 
+2 Other cooking 
+32 Chimney fire 
+34 Damage in fireplace or chimney 
+35 Insufficient safety distance 
+51 Frictional heat 
+53 Explosion 
+11 Prescribed burning 
+13 Rubbish burning 
+14 Campfire, grill 
+18 Candle, tealight 
+17 Fireworks, pyrotechnic products 
+15 Match, other fire making device 
+16 Cigarettes, other tobacco products 
+31 Hot or glowing object or ashes 
+33 Spark or firebrand from fireplace or 
+flue 
+3 Sabotage with fire 
+4 Children handling fire 
+71 Re-ignition 
+Notes  
+3427  100 Unknown 
+2 1000 Unknown (No information)
+557 
+1004 Unknown (Reason known but not 
+specified) 
+341  200 Natural 
+1174  210 Lightning 
+Count 
+3427 
+2
+557 
+341 
+1174 
+58 
+50 
+466 
+41 
+304 Works 
+1505 
+53 
+461 
+376 
+638  306 Self-ignition (auto-combustion) 
+1 
+13 
+6 
+1 
+5 
+19 
+63 
+307 Other accident 
+1269  411 Vegetation management 
+2220  413 Waste management 
+3323  414 Recreation 
+33  415 Other negligent use of fire 
+179 
+421 Fireworks, firecrackers and distress 
+flares 
+2700 
+2054 
+422 Cigarettes 
+407  423 Hot ashes 
+65  424 Other use of glowing object 
+152  500 Deliberate 
+276  522 Children 
+335  600 Rekindle 
+638 
+108 
+1269 
+2220 
+3323 
+33 
+179 
+4754 
+407 
+65 
+152 
+276 
+335 
+\uf0b7 Several  national  codes  dealing  with  details  of  machine  usage  (codes  12,  21,  22,  23, 
+41 and 42) were merged together into the new cause code 304 “Works”. 
+\uf0b7 The  new  code  307  “other  accident”  was  used  to  categorise  a  number  of  detailed 
+national categories that could not easily be classified anywhere else (codes 1, 2, 32, 
+34, 35, 51 and 53). 
+22 
+Harmonized classification scheme of fire causes in the EU 
+6.7. France 
+From  1985  to  2007  only  the  4  original  EU  classifications  (Unknown,  Natural, 
+Accident/Negligence, Deliberate) were included in the fire data. However,  for some fires 
+from  15  departments  in  the  Mediterranean  occurring  between  1998  and  2009,  detailed 
+cause  codes  from  the  Prometheus  database  were  also  given.  From  2007  a  16  point 
+national  code  was  used  to  describe  all  the  fires.  The  translations  of  these  systems  into 
+the new EU fire cause codes are shown below in Table 9, Table 10 and Table 11. 
+Table 9: Mapping of the national fire causes classification scheme of France to the new European 
+scheme and conversion of fires in the database 1985-2006 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+1 Unknown 
+<missing code> 
+9 <invalid code> 
+2 Natural 
+3 Accident/negligence 
+4 Deliberate or Arson 
+Notes  
+Count 
+58478  100 Unknown 
+Cause 
+8  1000 Unknown (No information) 
+40 
+1002 Unknown 
+(Invalid EU code: not 1-4) 
+5115  200 Natural 
+18192  1001 Accident/Negligence 
+5359  500 Deliberate 
+Count 
+58478 
+8 
+40 
+5115 
+18192 
+5359 
+\uf0b7 The special code 1001 was used for fires labelled “Accident/Negligence”
+Table 10: Mapping of the national fire causes classification scheme of France to the new European 
+scheme and conversion of fires in the database 2007-2010
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+FR_1 Unknown 
+FR_3.12 Other accidental 
+FR_2 Natural 
+FR_2.2 Other natural 
+FR_2.1 Lightning 
+FR_3 Accidental 
+FR_3.1 Electric line (break, electric arc) 
+FR_3.2 Rail 
+FR_3.3 Vehicle (muffler, brakes, fire) 
+FR_3.7 Industrial or crafts works 
+(machinery, burning of standing or cut 
+bush) 
+FR_3.5 Forest works (machinery, 
+burning of standing or cut bush) 
+FR_3.8 Private works (machinery, 
+burning of standing or cut bush) 
+FR_3.6 Agricultural works (machinery, 
+burning of standing or cut bush, 
+pastoral fire) 
+FR_3.4 Garbage dump (official, illegal) 
+FR_3.9 Leisure activities (children's 
+games, firecrackers, fireworks, 
+barbecue, stove...) 
+5132  100 Unknown 
+458  1001 Accident/Negligence 
+- 
+24 
+200 Natural 
+393  201 Lightning 
+300 Accident 
+400 Negligence 
+169  301 Electrical power 
+- 
+88  302 Railroads (Railways) 
+223  303 Vehicles 
+304 Works 
+22 
+216 
+1122 
+472 
+411 Vegetation management 
+304 Works 
+411 Vegetation management 
+304 Works 
+411 Vegetation management 
+304 Works 
+412 Agricultural burnings 
+162  413 Waste management 
+146 
+414 Recreation 
+421 Fireworks, firecrackers and distress 
+flares 
+522 Children 
+23 
+Count 
+5132 
+458 
+24
+393 
+- 
+- 
+169 
+88 
+223 
+22 
+- 
+- 
+216 
+- 
+1122 
+- 
+472 
+162 
+146 
+- 
+- 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+FR_3.10 Throwing of incandescent 
+objects (butt, warm ashes, distress 
+rocket) 
+FR_4 Deliberate 
+FR_4.4 Other deliberate 
+FR_4.2 Interest (land use, hunting, 
+pastoralism)  
+FR_4.1 Conflict  (land use, hunting) 
+FR_4.3 Pyromania 
+FR_3.11 Restart of fire 
+Notes  
+Cause 
+421 Fireworks, firecrackers and distress 
+flares 
+422 Cigarettes 
+423 Hot ashes 
+424 Other use of glowing object 
+Count 
+171 
+(code 
+420) 
+171 
+- 
+523 
+500 Deliberate 
+76  511 Interest (profit) 
+38  512 Conflict (revenge) 
+173  521 Mental illness 
+57  600 Rekindle 
+\uf0b7 Fires  given  a  code  of  FR_3.10  “throwing  incandescent  objects”  could  be  assigned 
+more  than  one  code  depending  on  the  object  thrown,  so  the  less  precise  code  420 
+(use of glowing object) had to be used.
+\uf0b7 The  national  code  FR_3.9  “leisure  activities”  could  be  given  more  than  one  code 
+depending on context. In this case 414 (Recreation) was chosen to be the most likely 
+case for the 146 fires concerned.
+\uf0b7 Code  412  (Agricultural  burnings)  was  chosen  as  the  most  likely  cause  for  the  split 
+category FR_3.6 “agricultural works”.
+\uf0b7 Code 411 (vegetation management) was chosen as the most likely cause for the two 
+split codes FR_3.5 “forest works” and FR_3.8 “private works”.
+\uf0b7 Code 340 (Works) was assigned to FR_3.7 “industrial or crafts works”.
+Table 11: Mapping of the detailed Mediterranean national fire causes classification scheme of 
+France to the new European scheme and conversion of fires in the database 1998-2009
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+FR_SEc_1 Natural 
+FR_Sec_19 Other natural 
+FR_SEc_11 Lightning 
+FR_SEc_2 Accidental due to installations 
+FR_SEc_21 Electric line 
+FR_SEc_211 Electric line - break 
+FR_SEc_212  Electric line - electric arc 
+FR_SEc_22 Rail 
+FR_SEc_23 Vehicle 
+FR_SEc_231 Vehicle  muffler, brakes, … 
+FR_SEc_232 Vehicle - fire 
+FR_SEc_411 Forest works - machinery 
+FR_SEc_421 Agricultural works - 
+machinery 
+FR_SEc_43 Industrial, public or crafts 
+works 
+FR_SEc_431 Industrial - machinery 
+FR_SEc_511 Private works - machinery 
+Count 
+56 
+10 
+200 Natural  
+534  201 Lightning 
+157  300 Accident 
+301 Electrical power 
+56 
+115 
+68 
+64  302 Railroads (Railways) 
+26 
+56 
+256 
+79 
+303 Vehicles 
+304 Works 
+119 
+7 
+64 
+123 
+24 
+523
+76 
+38 
+173 
+57 
+66 
+534 
+157 
+239 
+64 
+338 
+392 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+Count 
+FR_SEc_4 Involuntary due to 
+professional works 
+FR_SEc_5 Involuntary due to private 
+works 
+FR_SEc_41 Forest works 
+FR_SEc_412 Forest works - burning of 
+standing bush 
+FR_SEc_413 Forest works - burning of 
+cut bush 
+FR_SEc_424 Agricultural works - 
+pastoral fire 
+FR_SEc_432 Industrial - burning of 
+standing bush 
+FR_SEc_433 Industrial - burning of cut 
+bush 
+FR_SEc_51 Private works 
+FR_SEc_512 Private works - burning of 
+standing bush 
+FR_SEc_513 Private works - burning of 
+cut bush 
+FR_SEc_42 Agricultural works 
+FR_SEc_422 Agricultural works - 
+burning of standing bush 
+FR_SEc_423 Agricultural works - 
+burning of cut bush 
+FR_SEc_24 Garbage dump 
+FR_SEc_241 Garbage dump - official 
+FR_SEc_242  Garbage dump - illegal 
+FR_SEc_52 Leisure activities 
+FR_SEc_523 Barbecue, stove, campfire 
+FR_SEc_53 Throwing of incandescent 
+objects 
+FR_SEc_522 Fireworks 
+FR_SEc_533 Distress rocket 
+FR_SEc_531 Butt from walking smoker 
+FR_SEc_532 Butt from vehicle 
+FR_SEc_534 Warm ashes 
+FR_SEc_3 Arson - intentional human 
+origin 
+FR_SEc_32 Interest 
+FR_SEc_321 Interest - land use 
+FR_SEc_322 Interest - hunting 
+FR_SEc_323 Interest - pastoralism 
+FR_SEc_31 Conflict 
+FR_SEc_311 Conflict - land use 
+FR_SEc_312 Conflict - hunting 
+FR_SEc_33 Pyromania 
+FR_SEc_521 Children's games, 
+firecrackers, … 
+FR_SEc_44 Restart of fire 
+400 Negligence 
+156 
+47 
+109 
+21 
+130 
+239 
+67 
+25 
+411 Vegetation management 
+2131 
+61 
+71 
+437 
+1080 
+58 
+237 
+225 
+30 
+136 
+91 
+31 
+133 
+412 Agricultural burnings 
+520 
+413 Waste management 
+414 Recreation 
+67  420 
+55  421 Fireworks, firecrackers and distress 
+flares 
+422 Cigarettes 
+9 
+134 
+174 
+52  423 
+2321  500 
+52 
+117 
+135 
+387 
+144 
+94 
+210 
+511 Interest (profit) 
+512 Conflict (revenge) 
+1028  521 Mental illness 
+271 
+421 Fireworks, firecrackers and distress 
+flares 
+522 Children 
+207  600 Rekindle 
+25 
+257 
+164 
+67 
+64 
+308 
+52 
+2321 
+860 
+448 
+1028 
+- 
+271 
+207 
+Harmonized classification scheme of fire causes in the EU 
+6.8. Germany 
+No local fire cause codes are supplied with the data; only the 4 EU categories (Unknown, 
+Natural,  Accident/Negligence,  Deliberate)  are  supplied.  For  some  years  an  extra 
+category “Other human cause (e.g. Military)” was used. These were assigned new cause 
+codes as shown in Table 12. 
+Table 12: Mapping of the national fire causes classification scheme of Germany to the new 
+European scheme and conversion of fires in the database 1994-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+<missing> 
+0, 100 
+Unknown 
+Natural 
+Accident/negligence 
+3  1000 Unknown (No information) 
+2 
+1002 Unknown 
+(Invalid EU code: not 1-4) 
+4725  100 Unknown 
+643  200 Natural 
+2429 
+300 Accident 
+400 Negligence 
+Other human cause (e.g. Military) 
+Deliberate or Arson 
+12  1001 Accident/Negligence 
+2131  500 Deliberate 
+Count 
+3 
+2 
+4725 
+643 
+2429 
+(code 
+1001) 
+12 
+2131 
+Notes  
+\uf0b7 The  special  code  1001  was  used  for  fires  labelled  “Accident/Negligence”.  It  was  also 
+used  for  the  12  fires  labelled  “Other  human  cause  (e.g.  Military)”  since  it  is  not 
+possible to state the cause more precisely. 
+26 
+Harmonized classification scheme of fire causes in the EU 
+6.9. Greece 
+The  Greek  fire  cause  system  is  an  18  point  scale  (+19:  “Unknown”)  with  an  additional 
+qualifier indicating whether the cause is known or supposed (i.e. degree of confidence). 
+The country codes were mapped to the new scheme as shown in Table 13. 
+Table 13: Mapping of the national fire causes classification scheme of Greece to the new European 
+scheme and conversion of fires in the database 1983-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+19 Unknown 
+000 <unspecified code> 
+046 <unspecified code> 
+232 <unspecified code> 
+234 <unspecified code> 
+18 Other known 
+01 Lightning 
+05 Electric lines and installations 
+02 Military Exercise 
+03 Use of explosives (for opening roads 
+etc.) 
+04 Spark from engines 
+09 Burning of pasture 
+13 People working in the country side 
+(e.g. foresters) 
+08 Burning of agricultural fields 
+07 Burning of waste 
+11 Tourist 
+06 Smokers 
+10 Arson (voluntary, on purpose) 
+12 Hunters 
+14 Pyromaniac 
+15 Psycho 
+17 Mental ill (mentally disabled) 
+16 Children 
+Notes  
+Count 
+18169  100 Unknown 
+Cause 
+9 
+1 
+3 
+1 
+1003 Unknown 
+(Invalid or unexplained country code) 
+1291 
+1004 Unknown 
+(Reason known but not specified) 
+1492  201 Lightning 
+370  301 Electrical power 
+202 
+Count 
+18169 
+14 
+1291 
+1492 
+370 
+305 Weapons (firearms, explosives etc.) 
+274 
+72 
+286  307 Other accident 
+2444 
+808 
+411 Vegetation management 
+2660  412 Agricultural burnings 
+867  413 Waste management 
+219  414 Recreation 
+781  422 Cigarettes 
+3520  500 Deliberate 
+231  511 Interest (profit) 
+521 Mental illness 
+50 
+93 
+48 
+39  522 Children 
+286 
+3252 
+2660 
+867 
+219 
+781 
+3520 
+231 
+191 
+39 
+\uf0b7 The special code 1003 was used for a small number of unknown country code values. 
+27 
+Harmonized classification scheme of fire causes in the EU 
+6.10. Hungary 
+The  Hungarian  fire  cause  coding  system  lists  9  possible  fire  causes.  However,  in  the 
+historic data, only the 4 European codes were supplied before 2007, and after then only 
+3 national codes (1, 3, 9) are ever used. 
+Table 14: Mapping of the national fire causes classification scheme of Hungary to the new European 
+scheme and conversion of fires in the database 2002-2006 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+1 Unknown 
+2 Natural 
+3 Accident/negligence 
+4 Deliberate or Arson 
+Code 8 
+Code 9 
+Notes  
+768  100 Unknown 
+61  200 Natural 
+300 Accident 
+274 
+400 Negligence 
+38  500 Deliberate 
+2  1002 Unknown  
+10 
+(Invalid EU code: not 1-4) 
+Count 
+768 
+61 
+274 
+(code 
+1001) 
+38 
+12 
+\uf0b7 A small number of invalid national cause codes were given the special code 1002. 
+\uf0b7 Fires labelled as “Accident/negligence” were assigned the special code 1001. 
+Table 15: Mapping of the national fire causes classification scheme of Hungary to the new European 
+scheme and conversion of fires in the database 2007-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+9 Unknown 
+8 Other cause 
+1 Electricity or lightning 
+5 Technological failure 
+4 Self-ignition 
+2 Explosion 
+6 Calorific equipment 
+3 Naked light (+ EU code 3) 
+3 Naked light (+ EU code 4) 
+7 Smoking 
+Notes  
+1082  100 Unknown 
+- 
+1004 Unknown  
+(Reason known but not specified) 
+10  201 Lightning 
+-  304 Works 
+-  306 Self-ignition (auto-combustion)  
+- 
+- 
+307 Other accident 
+595  415 Other negligent use of fire 
+135  500 Deliberate 
+-  422 Cigarettes 
+Count 
+1082 
+- 
+10 
+- 
+- 
+- 
+595 
+135 
+- 
+\uf0b7 The  national  cause  code  “Naked  light”  has  been  split  into  2  new  cause  codes 
+depending on whether the fire was started deliberately or not: 415 (Other use of fire) 
+for negligent use and 500 (Voluntary) for deliberate use of naked light. The Hungarian 
+data also included the old 4-point EU codes which allowed the fires classified with the 
+national cause code “Naked light” to be split into the two new codes. 
+28 
+Harmonized classification scheme of fire causes in the EU 
+6.11. Italy 
+The Italian fire data have a long time-series, and several coding systems have been used 
+in the past to describe fire causes. The current national system is a 40 point scale. From 
+2002 the fires have been coded according to these cause categories. The mapping of the 
+national codes with the new cause categories is shown in Table 16. 
+For  all  the  fires  occurring  before  2002,  the  different  cause  schemes  were  allocated  to 
+new cause codes as appropriate. 
+Table 16: Mapping of the national fire causes classification scheme of Italy to the new European 
+scheme and conversion of fires in the database 2002-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+3202 fireworks, firecrackers, explosives 
+122 
+421  Fireworks,  firecrackers  and  distress 
+flares 
+305 Weapons (firearms, explosives etc.) 
+Cause 
+5001 unknown 
+1001 lightning 
+2003 accidental diverse 
+3206 electric lines 
+2001 volcanic eruption 
+3203 machinery 
+3204 military or firing exercises 
+2002 sparks from train 
+3207 other carelessness 
+3103 escaped pastoral burning 
+3105 burning of road or railway 
+shoulders 
+3101 burning of fallow land 
+3102 burning of vegetation waste 
+3104 Thatches/stubble burning 
+3205 illegal garbage dump 
+3201 leisure or tourist activities 
+3001 Cigarettes thrown along road 
+3002 Cigarettes thrown in countryside 
+3003 Cigarettes thrown in forested area 
+3004 Cigarettes thrown along railway 
+4201 other intentional 
+4001 opening or renovating pastures 
+4002 vegetation burning to earn 
+agricultural land 
+4003 vegetation burning for speculation 
+4004 fire lit in order to take advantage 
+of the situation 
+4005 fire lit for land use issue 
+4006 fire lit to destruct badly-executed 
+forest operations 
+4008 fire lit to harvest products after 
+burning 
+Cause 
+Count 
+14147  100 Unknown 
+802  201 Lightning 
+58  300 Accident 
+104  301 Electrical power 
+84  302 Railroads (Railways) 
+187  304 Works 
+19  305 Weapons (firearms, explosives etc.) 
+233  307 Other accident 
+1473  400 Negligence 
+Count 
+14147 
+802 
+58 
+104 
+84 
+187 
+19 
+233 
+1473 
+417 
+96 
+411 Vegetation management 
+513 
+412 Agricultural burnings 
+835 
+2283 
+437 
+329  413 Waste management 
+217  414 Recreation 
+1532 
+218 
+395 
+22 
+422 Cigarettes 
+3555 
+329 
+217 
+122 
+- 
+2167 
+20817  500 Deliberate 
+20817 
+7111 
+574 
+143 
+805 
+276 
+29 
+628 
+511 Interest (profit) 
+9566 
+29 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+4007 hunting conflict 
+4101 revenge against administration 
+4102 personal conflict or revenge 
+4103 protesting against land protection 
+4105 fire lit to depreciate tourist area 
+4108 social conflict 
+4104 fire lit for game or divertissement 
+4009 fire due to organized crime 
+connection factors 
+4106 political conflict 
+4107 terrorism 
+4109 psycho or pyromania 
+Notes  
+Cause 
+Count 
+1251 
+179 
+586 
+126 
+28 
+185 
+360  514 Excitement (incendiary) 
+512 Conflict (revenge) 
+58 
+20 
+7 
+516 Extremist 
+1942  521 Mental illness 
+Count 
+2355 
+360 
+85 
+1942 
+\uf0b7 The national cause code 3202 “fireworks, firecrackers, explosives” has been split into 
+2  new  cause  categories:  421  (Fireworks,  firecrackers  and  distress  flares)  or  305 
+(Weapons: firearms, explosives etc.). The 122 fires falling into this split class were all 
+assigned to new cause code 421, as the more likely of the 2 causes. 
+30 
+Harmonized classification scheme of fire causes in the EU 
+6.12. Latvia 
+Latvia  has  a  10  point  national  code.  However,  in  the  data  sent  to  the  European  Fire 
+database only the 4 EU categories (Unknown,  Natural, Accident/Negligence, Deliberate) 
+are supplied. These were assigned new cause codes as shown in Table 17. 
+Table 17: Mapping of the national fire causes classification scheme of Latvia to the new European 
+scheme and conversion of fires in the database 2005-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+<no information> 
+Unknown 
+Natural 
+329  1000 Unknown (No information) 
+49  100 Unknown 
+12  200 Natural 
+Accident/negligence 
+4718  1001 Accident/Negligence 
+Deliberate or Arson 
+184  500 Deliberate 
+Count 
+329 
+49 
+12 
+4718 
+184 
+31 
+Harmonized classification scheme of fire causes in the EU 
+6.13. Lithuania 
+Lithuania  uses  a  12  point  national  code.  The  country  codes  were  mapped  to  the  new 
+scheme and records stored in the European Fire Database (2004-2010) were converted 
+as shown in Table 18. 
+Table 18: Mapping of the national fire causes classification scheme of Lithuania to the new 
+European scheme and conversion of fires in the database 2004-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+12 Unknown causes 
+11 Natural 
+8 Electric lines 
+6 Railway 
+7 Motor transport 
+4 Other industrial activities 
+10 Other, military exercises 
+5 Means of communication 
+3 Forest activities 
+2 Agriculture, burning of grass 
+9 Campfires 
+1 Deliberate 
+Notes  
+238  100 Unknown 
+19  200 Natural 
+27  301 Electrical power 
+10  302 Railroads (Railways) 
+21  303 Vehicles 
+2  304 Works 
+5  305 Weapons (firearms, explosives etc.) 
+1004 Unknown (Reason known but not 
+specified) 
+2  307 Other accident 
+19  411 Vegetation management 
+838  412 Agricultural burnings 
+1798  414 Recreation 
+256  500 Deliberate 
+Count 
+238 
+19 
+27 
+10 
+21 
+2 
+5 
+- 
+2 
+19 
+838 
+1798 
+256 
+\uf0b7 National  cause  10  (Other,  military  activities)  was  split  depending  on  whether  the 
+cause  was  “other”  or  “military  activities”.  The  fires  already  recorded  in  this  split 
+category were all assigned code 350 in the absence of more information. This affected 
+only 5 fires in the database. 
+32 
+Harmonized classification scheme of fire causes in the EU 
+6.14. Poland 
+Before  2007,  the  State  Fire  Services  codes  were  used  to  describe  fire  causes.  This  is a 
+37-point code, covering not only forest fires. Many of the detailed cause categories were 
+therefore  merged,  as  they  did  not  relate  specifically  to  forests.  From  2007,  the  data 
+included additional fires that came from the State Forests and National Parks database, 
+which  uses  a  different  set  of  cause  codes  (13  classes).  The  translation  of  these  two 
+systems into the new EU cause codes are shown in Table 19 and Table 20. 
+Table 19: Mapping of the national fire causes classification scheme of the State Fire Services of 
+Poland to the new European scheme and conversion of fires in the database 1993-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+PSP-37 Unsettled 
+PSP-36 Other causes 
+PSP-30 Thunderbolts 
+PSP-11 Defects of electric devices and 
+installations (exc. heating devices)  
+PSP-26 Defects of means of transport 
+PSP-27 Incorrect exploitation of means 
+of transport 
+PSP-21 Defects of machineries 
+PSP-22 Incorrect exploitation of 
+machineries 
+PSP-3 Carelessness of adults with use of 
+combustible substances and explosives  
+PSP-28 Biological self-ignition 
+PSP-29 Chemical self-ignition 
+PSP-12 Incorrect exploitation of electric 
+devices and installations 
+PSP-13 Defects of electric heating 
+devices (furnaces, heaters etc.)  
+PSP-14 Incorrect exploitation of electric 
+heating devices 
+PSP-15 Defects of heating devices for 
+solid fuel  
+PSP-16 Incorrect exploitation of heating 
+devices for solid fuel  
+PSP-17 Defects of heating devices for 
+liquid fuel  
+PSP-18 Incorrect exploitation of heating 
+devices for liquid fuel  
+PSP-19 Defects of heating devices for 
+gas fuel  
+PSP-20 Incorrect exploitation of heating 
+devices for gas fuel  
+PSP-23 Defects of manufacturing 
+processes 
+PSP-24 Incompliance of technological 
+regimes 
+PSP-25 Incorrect storing of hazardous 
+substances 
+PSP-31 Defects of building constructions 
+PSP-32 Incorrect exploitation of building 
+constructions 
+PSP-33 Static electricity 
+Count 
+51190  100 Unknown 
+Cause 
+9818 
+1004 Unknown  
+(Reason known but not specified) 
+1059  201 Lightning 
+2578  301 Electrical power 
+1500 
+346 
+4702 
+708 
+303 Vehicles 
+304 Works 
+Count 
+51190 
+9818 
+1059 
+2578 
+1846 
+5410 
+72  305 Weapons (firearms, explosives etc.) 
+72 
+306 Self-ignition (auto-combustion)  
+262 
+307 Other accident 
+917 
+255 
+7 
+129 
+15 
+8 
+13 
+22 
+8 
+13 
+4 
+6 
+4 
+8 
+4 
+4 
+479 
+200 
+33 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Count 
+Cause 
+1188  400 Negligence 
+28619  411 Vegetation management 
+166422 
+414 Recreation 
+422 Cigarettes 
+172  415 Other negligent use of fire 
+500 Deliberate 
+Count 
+1188 
+28619 
+166422 
+- 
+172 
+274368 
+522 Children 
+13767 
+Cause 
+PSP-5 Carelessness of adults with other 
+case 
+PSP-2 Carelessness of adults firing of 
+vegetation remnants  
+PSP-1 Carelessness of adults with use of 
+open fire, incl. cigarettes, matches  
+PSP-4 Carelessness of adults with fire 
+hazardous works 
+PSP-34 Arson (purposely) incl. acts of 
+terror 
+PSP-35 Fires as effects of local threats 
+PSP-6 Carelessness of adolescents 
+(aged under 16) with use of open fire, 
+incl. cigarettes, matches  
+PSP-7 Carelessness of adolescents 
+(aged under 16) firing of vegetation 
+remnants  
+PSP-8 Carelessness of adolescents 
+(aged under 16) with use of 
+combustible substances and explosives  
+PSP-9 Carelessness of adolescents 
+(aged under 16) with fire hazardous 
+works 
+PSP-10 Carelessness of adolescents 
+(aged under 16) with other case 
+273713 
+655 
+11546 
+2035 
+55 
+3 
+128 
+Table 20: Mapping of the national fire causes classification scheme of the State Forests and 
+National Parks database of Poland to the new European scheme and conversion of fires in the 
+database 2007-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+LP-13 Unidentified 
+Count 
+1808  100 Unknown 
+Cause 
+LP-12 Other including military exercises 
+112 
+305 Weapons (firearms, explosives etc.) 
+1004 Unknown  
+(Reason known but not specified) 
+LP-9 Atmospheric discharges 
+LP-6 Failure of power line 
+LP-8 Rail transport (including fires 
+started by passengers) 
+LP-7 Road transport 
+LP-3 Other carelessness of adults 
+(including work on structures located 
+inside the forest, fireworks…) 
+LP-2 Economic activity of State Forests 
+(including post-exploitation burning and 
+bonfires lit by forest workers) 
+LP-10 Break overs from non-forest land  
+LP-1 Tourism and picking fruits of the 
+forest (including smokers, bonfires…) 
+LP-11 Arson including mental illness 
+66  201 Lightning 
+80  301 Electrical power 
+84 
+302 Railroads (Railways) 
+422 Cigarettes 
+63  303 Vehicles 
+304 Works 
+1599 
+421  Fireworks,  firecrackers  and  distress 
+flares 
+12  411 Vegetation management 
+215  412 Agricultural burnings 
+414 Recreation 
+210 
+422 Cigarettes 
+3207  500 Deliberate 
+34 
+Count 
+1808 
+- 
+112 
+66 
+80 
+84 
+- 
+63 
+1599 
+- 
+12 
+215 
+210 
+- 
+3207 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+Count 
+LP-4 Carelessness of minors (playing 
+with matches, cigarettes, torches, 
+fireworks…) 
+LP-5 Burning of bonfires by minors 
+67 
+22 
+Notes  
+522 Children 
+89 
+\uf0b7 National  cause  PSP-1  “Carelessness  of  adults  with  use  of  open  fire,  incl.  cigarettes, 
+matches”  was  split  into  2  new  cause  categories:  414  (Recreation)  and  422 
+(Cigarettes). The category considered most likely (414) was assigned to the historical 
+data. 
+\uf0b7 Codes  PSP-36  (Other  Causes)  and  LP-12  (Other  including  military  exercises)  were 
+assigned the special code 1004 (Reason known but not specified). 
+\uf0b7 The historic fires in split code LP3 “Other carelessness of adults” were assigned to the 
+new cause 304 (Works) as the most likely cause. 
+\uf0b7 The  historic  fires  in  split  code  LP-1  “Tourism  and  picking  fruits  of  the  forest”  were 
+assigned to the new cause 414 (Recreation) as the most likely cause. 
+35 
+Harmonized classification scheme of fire causes in the EU 
+6.15. Portugal 
+Since  2001  Portugal  has  used  a  3-level  hierarchical  system  for  classifying  fire  causes. 
+This  is  translated  into  the  new  EU  system  as  shown  in  Table  21  below.  For  those  fires 
+occurring before 2001 a variety of old coding systems were used. These were examined 
+individually and an appropriate code was assigned. 
+Table 21: Mapping of the national fire causes classification scheme of Portugal to the new European 
+scheme and conversion of fires in the database 2001-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+6 unknown 
+60 unknown  
+610 material evidence missing 
+620 personal evidence missing 
+630 other information missing 
+<no code> 
+5 natural 
+51 lightning 
+2 accident 
+21 transport and communications 
+211 electric lines 
+212 railway 
+213 exhaust 
+214 road accident 
+22 machinery 
+221 impact of agricultural metallic tools 
+against rocks 
+222 agricultural engines 
+223 forest equipment 
+224 chainsaws 
+225 forest engines 
+226 industrial engines 
+227 other machinery 
+231 explosives 
+232 soldering 
+233 hunter firing 
+234 military exercise 
+215 other accident 
+23 other accidental cause 
+235 glass 
+236 other accidental cause 
+1 negligent  use of fire 
+12 vegetation burning 
+122 clearing of forest areas 
+123 clearing of urban areas 
+125 renewing pastures 
+126 improving access to hunting and 
+fishing areas 
+127 clearing paths or private areas 
+128 escaped preventive burning 
+248 
+208 
+34 
+57 
+30 
+43 
+103 
+10 
+32 
+1 
+6 
+60 
+35 
+54 
+141 
+Cause 
+Count 
+100 Unknown 
+23112 
+Count 
+10079 
+1907 
+4428 
+116 
+6582 
+208381 1000 Unknown (No information) 
+97  200 Natural  
+459  201 Lightning 
+702 
+26 
+300 Accident 
+649  301 Electrical power 
+98  302 Railroads (Railways) 
+25 
+28 
+86 
+303 Vehicles 
+304 Works 
+305 Weapons (firearms, explosives etc.) 
+49 
+307 Other accident 
+34  400 Negligence 
+369 
+1630 
+113 
+6745 
+179 
+313 
+56 
+411 Vegetation management 
+9633 
+36 
+208381 
+97 
+459 
+728 
+649 
+98 
+53 
+809 
+290 
+34 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+129 other vegetation burning 
+37 forest fires prevention 
+371 problem during fire prevention or 
+fire fighting activities 
+121 clearing of agricultural areas 
+124 burning remnants or agricultural 
+waste 
+11 garbage burning 
+111 in official garbage dump 
+112 industrial waste 
+113 commercial waste 
+114 waste from clandestine activities / 
+illegal garbage dump 
+115 waste from permanent private 
+habitation 
+116  waste from temporary or leisure 
+habitation 
+14 bonfires 
+141 for leisure activities 
+142 for cooking 
+143 for heating 
+144 for road works 
+145 other bonfires 
+13 fireworks 
+131 with prevention measures 
+132 clandestine 
+133 self-ignition 
+15 smokers 
+151 walking smokers 
+152 cigarette butts or matches thrown 
+from vehicles 
+16 apiculture 
+161 fumigation 
+162 disinfection 
+17 chimneys 
+171 industrial chimneys 
+172 houses chimneys 
+3 structural 
+38 other structural causes 
+4 incendiary 
+31 hunting and wildlife 
+33 land use 
+44 responsible 
+449 other deliberate 
+312 preventing from damages caused 
+by wildlife 
+333 changing land use 
+334 pressure on wood market 
+335 limiting use or management of land 
+Count 
+223 
+4 
+1 
+2653 
+2173 
+328 
+8 
+16 
+3 
+128 
+66 
+12 
+112 
+24 
+85 
+10 
+1 
+129 
+43 
+68 
+55 
+115 
+110 
+210 
+378 
+7 
+10 
+3 
+4 
+6 
+8 
+50 
+32 
+1636 
+127 
+321 
+98 
+931 
+147 
+44 
+16 
+16 
+Cause 
+Count 
+412 Agricultural burnings 
+4826 
+413 Waste management 
+561 
+414 Recreation 
+231 
+415 Other negligent use of fire 
+130 
+421 Fireworks, firecrackers and distress 
+flares 
+281 
+422 Cigarettes 
+698 
+424 Other use of glowing object 
+38 
+500 Deliberate 
+1718 
+510 Responsible (arson) 
+1477 
+511 Interest (profit) 
+223 
+37 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Count 
+288 
+11 
+93 
+116 
+Cause 
+311 hunting conflict 
+336 conflict in use of fallow lands 
+445 conflicts between neighbours 
+446 revenge 
+448 vandalism 
+444 fire lit in order to admire the fire 
+fighting means 
+441 diversionary manoeuvre 
+41 irresponsible 
+419 other irresponsible 
+417 pyromania 
+412 children games 
+413 irresponsibility of minors 
+700 Fire Restart 
+508 
+7977 
+102 
+45 
+67 
+117 
+166 
+8467 
+512 Conflict (revenge) 
+7977  513 Vandalism 
+102  514 Excitement (incendiary) 
+45  515 Crime concealment 
+15 
+52 
+520 Irresponsible 
+117  521 Mental illness 
+105 
+61 
+522 Children 
+8467  600 Rekindle 
+38 
+Harmonized classification scheme of fire causes in the EU 
+6.16. Romania 
+In Romania, currently there is no classification by codes of presumed forest fire causes. 
+The  Fire  Department  uses  nominal  lists  for  presumed  fire  causes,  and  a  detailed 
+classification  of  forest  fire  presumed  causes  and  codes  is  under  construction.  The  fire 
+causes  found  in  the  fire  data  from  2004-2010  were  mapped  to  the  new  scheme  as 
+shown in Table 22. 
+Table 22: Mapping of the national fire causes classification scheme of Romania to the new European 
+scheme and conversion of fires in the database 2004-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+288  100 Unknown 
+10 
+1 
+1 
+2 
+14 
+2 
+2 
+1 
+2 
+1 
+234 
+38 
+1 
+195 
+1 
+71 
+8 
+1 
+2 
+2 
+1 
+1 
+unknown 
+electrical sparks 
+electrical sparks (power lines) 
+electrical sparks (railway power line) 
+train brake drag sparks 
+self-ignition 
+self-ignition (focalised glass effect) 
+self-ignition coal 
+gas pipeline explosion 
+litter fire (sunstroke) 
+self-ignition of the nearby private green 
+crops 
+unsupervised fire in areas next to 
+forests (private green crops) 
+unsupervised fire in areas next to 
+forests (private hayfield) 
+unsupervised fire in areas next to 
+forests (private orchard) 
+unsupervised fire in areas next to 
+forests (private pasture) 
+unsupervised fire in areas next to 
+forests (private vineyard) 
+unsupervised fire in areas next to 
+forests 
+unsupervised fire in areas next to 
+forests (agricultural fields) 
+unsupervised fire in areas next to 
+forests (orchard) 
+unsupervised fire in areas next to 
+forests (reed) 
+unsupervised fire in areas next to 
+forests (stubble field) 
+unattended waste dump  
+unsupervised fire in areas next to 
+forests (garbage waste) 
+unsupervised fire in areas next to 
+forests (garbage) 
+unsupervised fire in areas next to 
+forests (waste dump) 
+unattended open fire 
+involuntarily started fire in areas next to 
+forests (cigarette butt) 
+unextinguished cigarettes carelessly 
+thrown away 
+301 Electrical power 
+302 Railroads (Railways) 
+306 Self-ignition (auto-combustion)  
+307 Other accident 
+Count 
+288 
+11 
+3 
+18 
+3 
+411 Vegetation management 
+470 
+412 Agricultural burnings 
+84 
+11 
+413 Waste management 
+2 
+79  414 Recreation 
+2 
+42 
+422 Cigarettes 
+39 
+15 
+79 
+44 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+criminal action 
+criminal action - reed 
+unattended open fire by children 
+underground fires 
+500 Deliberate 
+Count 
+14 
+1 
+1  522 Children 
+1  600 Rekindle 
+Cause 
+Count 
+15 
+1 
+1 
+40 
+Harmonized classification scheme of fire causes in the EU 
+6.17. Slovakia 
+No local fire cause codes are supplied with the data; only the 4 EU categories (Unknown, 
+Natural, Accident/Negligence,  Deliberate) are  supplied. These  were assigned new  cause 
+codes as shown in Table 23. 
+Table 23: Mapping of the national fire causes classification scheme of Slovakia to the new European 
+scheme and conversion of fires in the database 2004-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+Unknown 
+Natural 
+Accident/negligence 
+Deliberate or Arson 
+Notes  
+156  100 Unknown 
+14 
+200 Natural 
+300 Accident 
+1569 
+400 Negligence 
+54 
+500 Deliberate 
+\uf0b7 The special code 1001 was used for fires labelled “Accident/Negligence”
+Count 
+156 
+14 
+1569 
+(code 
+1001) 
+54 
+41 
+Harmonized classification scheme of fire causes in the EU 
+6.18. Slovenia 
+The Slovenian system is a hierarchical scheme with up to 5 levels. In practice, the most 
+detailed  levels  are  not  used  for  the  SI  forest  fires.  However,  the  entire  system  was 
+translated into the new EU fire cause code scheme, in case any of the codes are used in 
+the future (Table 24). 
+Table 24: Mapping of the national fire causes classification scheme of Slovenia to the new European 
+scheme and conversion of fires in the database 2004-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+SI_nfs_2.0 Unknown cause 
+SI_nfs_1.126 Other (army, etc.) 
+SI_nfs_1.0 Known cause 
+SI_nfs_1.1 Man  
+SI_nfs_1.2Natural causes 
+SI_nfs_1.21 Lightning  
+SI_nfs_1.12 Negligence 
+SI_nfs_1.1244 Short circuit, electricity 
+distribution 
+SI_nfs_1.1243 Train sparks 
+SI_nfs_1.1241 Traffic accident 
+SI_nfs_1.1242 Fire on vehicles 
+SI_nfs_1.123 Industrial activities 
+SI_nfs_1.1231 Ignition of inflammables 
+and vapours 
+SI_nfs_1.1232 Explosion 
+SI_nfs_1.1233 Grinding, welding, 
+friction, overheating 
+SI_nfs_1.1261 Military activities 
+SI_nfs_1.22 Self-ignition of garbage at 
+landfill 
+SI_nfs_1.1212  Hay self-ignition 
+SI_nfs_1.124 Communications (trains, 
+electric lines, etc.) 
+SI_nfs_1.122 Forestry operations 
+SI_nfs_1.1221 Open fire, making  fires 
+in the open air 
+SI_nfs_1.121  Agricultural operations 
+SI_nfs_1.1211 Open fire, making  fires 
+in the open air 
+SI_nfs_1.125 Forest visitors (tourists, 
+children, etc.) 
+SI_nfs_1.1252 Open fire, making  fires 
+in the open air 
+SI_nfs_1.1253 Mass manifestations in 
+natural environment 
+SI_nfs_1.1262 Construction facility fire 
+SI_nfs_1.1251 Careless smoking, 
+thrown away butts 
+SI_nfs_1.1263 Depositing of hot ashes 
+or burning materials 
+SI_nfs_1.11 Arson 
+SI_nfs_1.1254 Children’s play 
+554  100 Unknown 
+21  1001 Accident/Negligence 
+-  1004  Unknown  (Reason  known  but  not 
+- 
+specified) 
+74  200 Natural  
+42  201 Lightning 
+300 Accident 
+400 Negligence 
+50 
+-  301 Electrical power 
+-  302 Railroads (Railways) 
+- 
+- 
+3 
+303 Vehicles
+304 Works 
+- 
+- 
+- 
+-  305 Weapons (firearms, explosives etc.) 
+306 Self-ignition (auto-combustion)
+- 
+- 
+258  307 Other accident 
+411 Vegetation management 
+412 Agricultural burnings 
+32 
+- 
+150 
+- 
+58 
+- 
+414 Recreation 
+- 
+-  415 Other negligent use of fire 
+422 Cigarettes 
+423 Hot ashes 
+- 
+- 
+135  500 Deliberate 
+  522 Children 
+42 
+Count 
+554 
+21 
+74 
+42 
+50 
+(code 
+1001) 
+- 
+- 
+- 
+3 
+- 
+- 
+258 
+32 
+150 
+58 
+- 
+- 
+- 
+135 
+- 
+Harmonized classification scheme of fire causes in the EU 
+Notes  
+\uf0b7 For  conversion  of  the  historical  data,  the  special  code  1001  was  used  for  code  1.12 
+(“Negligence”) as this category actually contains both accidental and negligence fires 
+(similar  to  old  EU  code  3)  and  the  precise  cause  cannot  be  determined.  For  future 
+data the fires should be able to be split into either 300 (accident) or 400 (negligence). 
+The same special code was also used for “Other (army etc)” for the same reason. 
+43 
+Harmonized classification scheme of fire causes in the EU 
+6.19. Spain 
+The Spanish codes for fire causes is a hierarchical scheme with 65 causes listed. Like the 
+new  EU  scheme  it  is  possible  to  specify  more  or  less  information  about  the  cause. 
+However, for the data  sent to the  European  fire database, the deliberately started fires 
+(codes 4nn) are only specified to the first level of detail and the motivation is therefore 
+unknown. 
+Table 25: Mapping of the national fire causes classification scheme of Spain to the new European 
+scheme and conversion of fires in the database 1985-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+ES_500 unknown 
+ES_100 Lightning 
+ES_330 engines and machinery 
+ES_320 electric lines 
+ES_310 railway 
+ES_332 Light or heavy weight vehicles 
+ES_333 Vehicle accident 
+ES_331 Harvesters 
+ES_334 Fixed machinery 
+ES_335 Other type of machinery 
+ES_340 army manoeuvres 
+ES_290 Other negligence 
+ES_296 Fires due other negligence 
+cause 
+ES_220 Pasture regeneration burning 
+ES_221  Bush Burning 
+ES_222  Burning of herbaceous 
+ES_223 Other fires set for pasture 
+regeneration 
+ES_230 Forest works 
+ES_280 Bush Burning 
+ES_281 Bush burning near to buildings 
+ES_282 Bush burning with the purpose 
+of clearing tracks and paths 
+ES_283 Bush burning to eliminate 
+refuges of harmful fauna 
+ES_284 Bush burning with other 
+purposes 
+ES_295 burning of pruning rests from 
+gardens 
+ES_210 Agricultural burning 
+ES_211  Stubs burning 
+ES_212  Burning of pruning derbies 
+ES_213 Fires on the boundaries of 
+farms or plots 
+ES_214 Fires in the edges of irrigation 
+ditches 
+ES_215 Other fires set for agricultural 
+purposes 
+ES_260 Rubbish burning 
+ES_270 Escape from a garbage dump 
+11234 
+1318 
+10465 
+793 
+143 
+84 
+5673 
+2638 
+43 
+139 
+9 
+150 
+70 
+15343 
+643 
+949 
+527 
+392 
+241 
+5262 
+1664 
+44 
+Cause 
+Count 
+94612 100 Unknown 
+17442  201 Lightning 
+3338  300 Accident 
+3835  301 Electrical power 
+1952  302 Railroads (Railways) 
+303 Vehicles 
+374 
+218 
+549 
+52 
+689 
+319  305 Weapons (firearms, explosives etc.) 
+304 Works 
+400 Negligence 
+Count 
+94612 
+17442 
+3338 
+3835 
+1952 
+592 
+1290 
+319 
+12552 
+411 Vegetation management 
+20207 
+412 Agricultural burnings 
+18095 
+413 Waste management 
+6926 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+3786  414 Recreation 
+10  415 Other negligent use of fire 
+210 
+421 Fireworks, firecrackers and distress 
+flares 
+6751  422 Cigarettes 
+69  424 Other use of glowing object 
+235424 
+- 
+500 Deliberate 
+Count 
+3786 
+10 
+210 
+6751 
+69 
+235424 
+511 Interest (profit) 
+- 
+ES_240 Campfires 
+ES_293 hot air balloon 
+ES_292 fire works 
+ES_250 Smokers 
+ES_291 apiculture 
+ES_400 intentional 
+ES_499 Other purposes. 
+ES_401 Uncontrolled agricultural fires, 
+started by farmers to eliminate bushes 
+and agricultural debris, spread into the 
+forest. 
+ES_402 Fires started by shepherds and 
+livestock farmers to facilitate pasture 
+regeneration and/or pasture growth. 
+ES_404 Fires started to frighten away 
+animals (wolfs, wild boars, etc.) harmful 
+to crops or livestock. 
+ES_405 Fires caused by hunters to 
+make hunting easier. 
+ES_409 Fires set to get a job in the fire 
+fighting brigades or in the post-fire 
+restoration works of damaged areas. 
+ES_411 Fires started to reduce the price 
+of wood. 
+ES_412 Fires started to force land-use 
+changes. 
+ES_420 Fires started to facilitate the 
+production of forest products. 
+ES_403 Fires set for revenge purposes. 
+ES_406 Fires started against hunting 
+limitation. 
+ES_407 Fires started due to dissents or 
+contestations on the public or private 
+ownership of forests. 
+ES_408 Fires started in retaliation for 
+the reduction of public investment in 
+forests. 
+ES_414 Fires started due to the 
+rejection towards reforestation works. 
+ES_416 Fires started due to the 
+rejection of the creation of new Natural 
+Protected Areas or against the existing 
+ones. 
+ES_421 Fires started with the will to 
+force the resolution of Consortiums or 
+Agreements. 
+ES_422 Fires started due to resentment 
+against expropriations or compulsory 
+purchases. 
+ES_423 Fires started as revenge for 
+imposed fines. 
+ES_419 Fires due to acts of vandalism. 
+ES_418 Fires started with the aim of 
+contemplating the fire fighting tasks. 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+512 Conflict (revenge) 
+-  513 Vandalism 
+-  514 Excitement (incendiary) 
+45 
+- 
+- 
+- 
+Harmonized classification scheme of fire causes in the EU 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+ES_415 Fires started by delinquents or 
+demonstrators to distract the security 
+forces, Civil Guard or Police. 
+ES_413 Fires started by political groups 
+to create social unrest. 
+ES_417 Fires started during pseudo-
+religious or satanic rites. 
+ES_410 Fires started due to arsonists 
+(mentally ill people). 
+ES_294 kid games 
+ES_600 restart of fire 
+Count 
+Cause 
+Count 
+-  515 Crime concealment 
+- 
+- 
+516 Extremist 
+-  521 Mental illness 
+558  522 Children 
+4989  600 Rekindle 
+- 
+- 
+- 
+558 
+4989 
+46 
+Harmonized classification scheme of fire causes in the EU 
+6.20. Sweden 
+The country cause scheme is a single level non-hierarchical list of 23 causes. These were 
+mapped to the new system as shown in Table 26. 
+Table 26: Mapping of the national fire causes classification scheme of Sweden to the new European 
+scheme and conversion of fires in the database 1996-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+30 Unknown 
+0 Not specified 
+91 Other 
+8 Lightning 
+4 Sparks from train brakes 
+18 Transport accident 
+19 Other sparks (from vehicles) 
+10  Careless  handyman  (replaced  by 
+code 21 since 2005) 
+21  Hot  work  (with  tools  that  give  off 
+heat  or  sparks:  cutting,  grinding, 
+welding, LPG blowlamp etc…) 
+16 Spontaneous combustion 
+12 Explosion 
+14 Heat transfer 
+24  Friction  (generates  heat  and  can 
+ignite materials) 
+7  Technical  fault  (i.e.  problem  with  a 
+machine  or  a 
+system, 
+including electric lines) 
+22  Fire  spread  when  burning  other 
+things  than  grass  (including  prescribed 
+fire,  garbage  burning,  residues  from 
+agricultural or forest activities) 
+20 Fire spread when burning grass 
+17 Camp fire (replaced by code 23 since 
+2005) 
+23 Camp fire/grill 
+technical 
+9 Fireworks 
+5 Smoking 
+2 Arson 
+3 Child playing with fire 
+1 Re-ignition 
+Notes  
+8888  100 Unknown 
+18458  1000 Unknown (No information) 
+4689  1004 Unknown (Reason known but not 
+specified) 
+2804  201 Lightning 
+1335  302 Railroads (Railways) 
+303 Vehicles 
+41 
+2075 
+145 
+60 
+304 Works 
+577  306 Self-ignition (auto-combustion)  
+88 
+359 
+85 
+253 
+307 Other accident 
+411 Vegetation management 
+413 Waste management
+2215 
+415 Other negligent use of fire 
+8465  412 Agricultural burnings 
+3087 
+414 Recreation 
+2329 
+1044  421  Fireworks,  firecrackers  and  distress 
+flares 
+1106  422 Cigarettes 
+6531  500 Deliberate 
+7405  522 Children 
+2046  600 Rekindle 
+Count 
+8888 
+18458 
+4689 
+2804 
+1335 
+2116 
+205 
+577 
+785 
+2215 
+- 
+- 
+8465 
+5416 
+1044 
+1106 
+6531 
+7405 
+2046 
+\uf0b7 The Swedish code “Fire spread when burning other things than grass” has been split 
+into  several  possible  new  cause  codes  depending  on  the  activity:  411  if  primarily  to 
+control vegetation; 413 if waste management and 415 (other use of fire) if neither of 
+these.  For  converting  the  historical  data  the  code  411  was  used,  as  the  most  likely 
+possibility. This affects 2215 fires in the database. 
+\uf0b7 The 4689 fires given the national code “Other” were assigned the special code 1004. 
+47 
+Harmonized classification scheme of fire causes in the EU 
+6.21. Switzerland 
+The Swiss nation scheme comprises a 15 point code. Some of the codes (e.g. “forestry”) 
+could be mapped to several possibilities in the new scheme. These are  split and for the 
+future, the most appropriate classification can be selected according to the detail of the 
+cause as shown in Table 27. 
+Table 27: Mapping of the national fire causes classification scheme of Switzerland to the new 
+European scheme and conversion of fires in the database 1980-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+1 Unknown 
+13 Cross-border 
+<missing> 
+15 Other known cause 
+2 Lightning 
+11 Electric line 
+10 Rail 
+12 Other technical systems (includes 
+problems on motor vehicles) 
+9 Army 
+7 Forestry  
+8 Agriculture 
+4 Not extinguished campfires 
+5 Private (tourists, hikers, thrown 
+cigarettes, other) (includes all 
+undefined carelessness) 
+3 Arson 
+6 Children 
+14 Fire restarting 
+Notes  
+Count 
+920 
+32 
+100 Unknown 
+Cause 
+Count 
+5  1000 Unknown (No information) 
+73  1004 Unknown (Reason known but not 
+specified) 
+331  201 Lightning 
+68  301 Electrical power 
+82  302 Railroads (Railways) 
+- 
+303 Vehicles 
+307 Other accident 
+49  305 Weapons (firearms, explosives etc.) 
+63 
+55 
+411 Vegetation management 
+304 Works 
+412 Agricultural burnings 
+304 Works 
+66  414 Recreation 
+422 Cigarettes 
+414 Recreation 
+400 Negligence 
+329  500 Deliberate 
+38  522 Children 
+1  600 Rekindle 
+749 
+952 
+5 
+73 
+331 
+68 
+82 
+- 
+- 
+49 
+63 
+- 
+55 
+- 
+66 
+749 
+- 
+- 
+329 
+38 
+1 
+\uf0b7 The national code 12 “Other technical systems: includes problems on motor vehicles” 
+was split into new cause codes 303 (Vehicles) for accidents involving vehicles and 307 
+(other  accident)  for  general  accidents.  No  fires  in  the  historic  data  were  registered 
+under this code. 
+\uf0b7 The  national  code  7  “Forestry”  was  split into  411  (Vegetation  management)  and  the 
+general code 204 (Works). For the historic data, code 411 was used as the most likely 
+cause. 
+\uf0b7 The  national  code  8  “Agriculture”  was  split  into  412  (Agricultural  burnings)  and  the 
+general code 204 (Works). For the historic data, code 412 was used as the most likely 
+cause. 
+\uf0b7 The  national  code  5  “Private”  was  split  into  422  (Cigarettes),  414  (Recreation)  and 
+the  general  code  400  (Negligence).  For  the  historic  data,  code  422  was  used  as  the 
+most likely cause. 
+48 
+Harmonized classification scheme of fire causes in the EU 
+6.22. Turkey 
+The  Turkish  system  uses  a  16  point  code.  These  were  converted  to  the  new  cause 
+scheme as shown in Table 28. 
+Table 28: Mapping of the national fire causes classification scheme of Turkey to the new European 
+scheme and conversion of fires in the database 2005-2010 
+Fire causes and number of fires recorded 
+under the national scheme 
+Fire causes and number of fires recorded 
+under the new European scheme 
+Cause 
+Count 
+Cause 
+1 Unknown 
+<No information> 
+19 <no explanation of code> 
+9 other (intention-accident) 
+1850  100 Unknown 
+2240  1000 Unknown (No information) 
+2 
+835 
+1003 Unknown 
+(Invalid or unexplained country code) 
+1004 Unknown 
+(Reason known but not specified) 
+2 lighting 
+7 energy line 
+6 locomotive 
+8 traffic accident 
+4 swaddle 
+5 exposure 
+16 other (negligence) 
+10 stubble 
+11 dump 
+12 hunting 
+13 shepherd fire 
+15 picnic fire 
+14 cigarette 
+3 terror 
+Notes  
+1148  201 Lightning 
+417  301 Electrical power 
+123  302 Railroads (Railways) 
+54  303 Vehicles 
+223 
+36 
+307 Other accident 
+1806  400 Negligence 
+257  412 Agricultural burnings 
+36  413 Waste management 
+52 
+326 
+227 
+730  422 Cigarettes 
+97  500 Deliberate 
+414 Recreation 
+Count 
+1850 
+2240 
+2 
+835 
+1148 
+417 
+123 
+54 
+259 
+1806 
+257 
+36 
+605 
+730 
+97 
+\uf0b7 The  national  code  9  “Other  (intention-accident)”  had  to  be  coded  as  1004  (Reason 
+known but not specified) as there was not enough information to be more precise. 
+\uf0b7 National  codes  4  “Swaddle”  and  5  “Exposure”  were  combined  into  the  new  cause 
+category 307 (Other accident). 
+\uf0b7 National codes 12 “Hunting”, 13 “Shepherd fire” and 14 “Picnic fire” were merged into 
+the new cause code 414 (Recreation) after consultation with the Turkish fire experts. 
+\uf0b7 2 fires were given a code of 19, for which there is no explanation, and were given the 
+special code 1003. 
+49 
+Forest landscape in Europe 
+
+--
+{'heading': 'Harmonized classification scheme of \nfire causes in the EU adopted for the \nEuropean Fire Database of EFFIS\n', 'content_font': 14, 'heading_font': 20, 'source': 'effis.pdf'}
+
+
+
+

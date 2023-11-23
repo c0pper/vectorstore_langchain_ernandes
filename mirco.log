@@ -1,0 +1,170 @@
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/distiluse-base-multilingual-cased-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+chromadb.telemetry.posthog - INFO - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+clickhouse_connect.driver.ctypes - INFO - Successfully imported ClickHouse Connect C data optimizations
+clickhouse_connect.json_impl - INFO - Using python library for writing JSON byte strings
+chromadb.db.duckdb - INFO - loaded in 60 embeddings
+chromadb.db.duckdb - INFO - loaded in 1 collections
+chromadb.db.duckdb - INFO - collection with name langchain already exists, returning existing collection
+chromadb.db.duckdb - INFO - Persisting DB to disk, putting it in the save folder: mirco_db
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/distiluse-base-multilingual-cased-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+chromadb.telemetry.posthog - INFO - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+clickhouse_connect.driver.ctypes - INFO - Successfully imported ClickHouse Connect C data optimizations
+clickhouse_connect.json_impl - INFO - Using python library for writing JSON byte strings
+chromadb.db.duckdb - INFO - loaded in 60 embeddings
+chromadb.db.duckdb - INFO - loaded in 1 collections
+chromadb.db.duckdb - INFO - collection with name langchain already exists, returning existing collection
+root - INFO - {'heading': 'Sviluppo di un’intelligenza artificiale per\nfavorire la sostenibilità della spesa corrente\ndelle famiglie e l’affidabilità dei crediti\n(Macchina Intelligente Recupero Crediti ver. 0)\n', 'content_font': 8, 'heading_font': 17, 'source': 'mirco.pdf'}
+Score: 0.8360497355461121
+--PROPOSTA PROGETTUALE IDEATA E REDATTA DA
+21 GENNAIO 2019
+  Srl  Srl 
+
+
+
+
+
+root - INFO - {'heading': 'Il diagramma riportato alla pagina seguente permette un riferimento sintetico delle diverse problema-\ntiche trattate all’interno dello schema progettuale.\n37\nMIRC.0\n38\n', 'content_font': 1, 'heading_font': 9, 'source': 'mirco.pdf'}
+Score: 0.9492350220680237
+--  Srl  Srl 
+
+
+
+
+
+root - INFO - {'heading': '1\n', 'content_font': 9, 'heading_font': 10, 'source': 'mirco.pdf'}
+Score: 1.0451505184173584
+--1.1 Fire
+1 STRUTTURA ORGANIZZATIVA, PRODUTTIVA E DI RICERCA E SVILUPPO 3
+3
+3
+4
+5
+6
+6
+6
+6
+7
+7
+8
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Descrizione della struttura organizzativa . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Indicazioni sul management aziendale
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Descrizione della struttura produttiva e della struttura dedicata all’attività di R&S . . . .
+Unità locale nella quale verrà realizzato il progetto . . . . . . . . . . . . . . . . . . . . . .
+1.2 Expert System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Descrizione della struttura organizzativa . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Indicazioni sul management aziendale
+Descrizione della struttura produttiva e della struttura dedicata all’attività di R&S . . . .
+Unità locale nella quale verrà realizzato il progetto . . . . . . . . . . . . . . . . . . . . . .
+1.3 Università di Messina – Dipartimento di Economia . . . . . . . . . . . . . . . . . . . . . .
+2 SETTORE DI ATTIVITÀ E CARATTERISTICHE DEL MERCATO DI RIFERI-
+MENTO
+2.1 Fire
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Descrizione dell’attività svolta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Informazioni quantitative sul mercato di riferimento . . . . . . . . . . . . . . . . . . . . .
+Posizione del proponente nel mercato di riferimento . . . . . . . . . . . . . . . . . . . . . .
+Previsioni di posizionamento nel triennio . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fatturato nell’ambito del settore produttivo oggetto della ricerca . . . . . . . . . . . . . .
+Informazioni sul sistema competitivo e indicazione dei principali concorrenti . . . . . . . .
+. . . . . . . . . . . .
+Principali accordi tecnici e/o commerciali, licenze e brevetti detenuti
+2.2 Expert System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Descrizione dell’attività svolta . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Informazioni quantitative sul mercato di riferimento . . . . . . . . . . . . . . . . . . . . .
+Posizione del proponente nel mercato di riferimento . . . . . . . . . . . . . . . . . . . . . .
+Previsioni di posizionamento nel triennio . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fatturato nell’ambito del settore produttivo oggetto della ricerca . . . . . . . . . . . . . .
+Informazioni sul sistema competitivo e indicazione dei principali concorrenti . . . . . . . .
+. . . . . . . . . . . .
+Principali accordi tecnici e/o commerciali, licenze e brevetti detenuti
+
+
+
+
+
+
+root - INFO - {'heading': '93\n', 'content_font': 9, 'heading_font': 10, 'source': 'mirco.pdf'}
+Score: 1.0570942163467407
+--1 CARATTERISTICHE DEL SOGGETTO PROPONENTE
+1.1 CAPACITÀ TECNICO-ORGANIZZATIVA . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fire Spa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Expert System Spa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Università di Messina – Dipartimento di Economia . . . . . . . . . . . . . . . . . . . . . .
+95
+95
+95
+96
+99
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+Descrizione del Dipartimento di Ingegneria dell’Università di Ferrara . . . . . . . . . . . . 102
+Descrizione GTS Consulting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+Collaborazioni internazionali dell’Università di Messina . . . . . . . . . . . . . . . . . . . . 105
+1.2 QUALITÀ DELLE COLLABORAZIONI
+2 QUALITÀ DELLA PROPOSTA PROGETTUALE
+107
+2.1 FATTIBILITÀ TECNICA DEL PROGETTO . . . . . . . . . . . . . . . . . . . . . . . . . 107
+Adeguatezza delle risorse strumentali e organizzative . . . . . . . . . . . . . . . . . . . . . 107
+2.2 RISULTATI ATTESI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+2.3 GRADO DI INNOVAZIONE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+3 IMPATTO DEL PROGETTO
+115
+3.1
+INTERESSE INDUSTRIALE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+3.2 POTENZIALITÀ DI SVILUPPO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+4 RISORSE FINANZIARIE PER LA REALIZZAZIONE DEL PROGETTO
+119
+iv
+  Srl  Srl 
+
+
+
+
+
+root - INFO - {'heading': '12 ELEMENTI A SUPPORTO DELLA RICHIESTA DI MAGGIORAZIONE\nDEL CONTRIBUTO\n', 'content_font': 9, 'heading_font': 11, 'source': 'mirco.pdf'}
+Score: 1.066660761833191
+--La strutturazione del progetto soddisfa le condizioni previste dal DD per il riconoscimento della maggio-
+razione del contributo. Si tratta infatti di un progetto congiunto, in cui:
+• nessuno dei partecipanti privati sostiene da solo più del 70% dei costi di progetto
+• sono tra loro indipendenti.
+Si con\ufb01gura quindi la condizione di “collaborazione e\ufb00ettiva” come de\ufb01nita dal DD.
+Inoltre, entrambi i partner privati appartengono alla categoria delle PMI (nello speci\ufb01co Fire ed Expert
+System sono entrambe medie imprese) soddisfacendo quindi le condizioni richieste per la maggiorazione
+del contributo (collaborazione e\ufb00ettiva tra imprese di cui almeno una appartenente alla categoria dell
+PMI).
+Di seguito la ripartizione dei costi di progetto atta a confermare le percentuali di costo per singolo
+soggetto
+Soggetto
+FIRE
+EXPERT SYSTEM
+UNIME
+Totale
+Costi ammissibili esposti in e % su totale costi
+56,80
+2.833.496,90
+25,09
+1.251.625,00
+18,11
+903.721,60
+100,00
+4.988.843,50
+91
+
+
+
+
+
+
+root - INFO - {'heading': '85\n', 'content_font': 0, 'heading_font': 9, 'source': 'mirco.pdf'}
+Score: 1.0906342267990112
+--
+
+
+
+
+
+chromadb.db.duckdb - INFO - Persisting DB to disk, putting it in the save folder: mirco_db

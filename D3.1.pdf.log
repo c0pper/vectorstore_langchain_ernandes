@@ -1,0 +1,340 @@
+root - INFO - D3.1-  First  report  on  the  formal  specification  of  sustainable  and  resilient forest management knowledge model (15.96)
+---
+This project has received funding from the European Union’s Horizon 2020 
+ research and innovation programme under Grant Agreement No 101037247 
+ Project Acronym 
+ SILVANUS 
+ Grant Agreement number  101037247 (H2020-LC-GD-2020-3) 
+ Project Full Title 
+ Integrated  Technological  and  Information  Platform  for  Wildfire 
+ Funding Scheme 
+ IA – Innovation action 
+ Management 
+ DELIVERABLE INFORMATION 
+ Deliverable Number: 
+ 3.1 
+ Deliverable Name: 
+ SILVANUS First report on the formal specification of sustainable 
+ and resilient forest management knowledge model 
+ Dissemination level: 
+ Type of Document: 
+ PU 
+ Contractual date of delivery:  29/09/2022 
+ Date of submission: 
+ 29/09/2022 
+ Deliverable Leader: 
+ EAI 
+ Status: 
+ Final draft  
+ Version number: 
+ V0.3 
+ WP Leader/ Task Leader: 
+ WP3 – SIMAVI / T3.1 – EAI 
+ Keywords: 
+ Abstract: 
+ Collection,  Concept,  Data, 
+ Inference  based 
+ reasoning, 
+ Knowledge management, Ontology, Relation, Taxonomy 
+ This  deliverable  is  divided  in  three  parts.  First,  we  provide  an 
+ overview  of  the  state  of  the  art  for  knowledge  and  ontologies 
+ related to the SILVANUS field of operation. Then we proceeded 
+ the  most  appropriate  resources  and 
+ to  pick  and  choose 
+ methodologies for our goals. Finally, we describe the ontology that 
+ resulted from task 3.1 activity. 
+ The ontology that is used by a system is the actual backbone of 
+ the information that the system collects, processes, and produces. 
+ However, based on the research performed in this work package 
+ we noticed that important pieces of environmental and other 
+ types of information that should be collected were not included in 
+ state-of-the-art ontologies. Therefore, they were significantly 
+ extended and enriched with many “fields” that are necessary 
+ when performing inference on data collected from a vast array of 
+ sources. 
+ Lead Author(s): 
+ Simone Martin Marotta (EAI), Vincenzo Masucci (EAI) 
+ Reviewers: 
+ DELL, UISAV, CMCC F 
+ Disclaimer  
+ All information in this document is provided “as is" and no guarantee or warranty is given that the 
+ information is fit for any particular purpose.  
+ The user there of uses the information at its sole risk and liability. For the avoidance of all doubts, 
+ the European Commission has no liability in respect of this document, which is merely representing 
+ the authors view.  
+ Document History 
+ Version  Date 
+ Contributor(s) 
+ Description 
+ V0.1 
+ 07.03.2022 
+ V0.2 
+ 19.03.2022 
+ V0.3 
+ 11.07.2022 
+ V0.4 
+ 22.07.2022 
+ V0.5 
+ 29.07.2022 
+ V1.0 
+ 05.08.2022 
+ V1.1 
+ 23.08.2022 
+ V2.0 
+ 05.09.2023 
+ Martin 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ (EAI) 
+ Martin 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Table of contents 
+ Initial draft  
+ Added concepts collected from pilots 
+ Added pre-existing ontologies and taxonomies 
+ Added Analysis & Choices section and description 
+ of results and annexes A & B 
+ Integration  of  partner  contributions  and  final 
+ draft for review 
+ Final  version  for  submission  with  integration  of 
+ partner reviews and suggestions 
+ Modified  version  based  on  the    request  for 
+ revision of deliverable after the 1st review 
+ List of Contributors 
+ Partner 
+ AHEPA 
+ ADP 
+ CTL 
+ DELL 
+ EDP 
+ IST-ID 
+ ITTI 
+ PNRT 
+ Author(s) 
+ Paul Zarog 
+ Carlos Brito 
+ Kostas Avgerinakis, Panos Mitzias 
+ David Bowden, Matthew Keating 
+ Luísa Serra, Ricardo Lucas 
+ Vânia Proença 
+ Damian Puchalski 
+ Alessandro Salvatore Pala, Marianna Mossa  
+ UASVG 
+ Igor Mili\u0107 
+
+
+
+
+
+root - INFO - D3.1-  First  report  on  the  formal  specification  of  sustainable  and  resilient forest management knowledge model (15.96)
+---
+This project has received funding from the European Union’s Horizon 2020 
+ research and innovation programme under Grant Agreement No 101037247 
+ Project Acronym 
+ SILVANUS 
+ Grant Agreement number  101037247 (H2020-LC-GD-2020-3) 
+ Project Full Title 
+ Integrated  Technological  and  Information  Platform  for  Wildfire 
+ Funding Scheme 
+ IA – Innovation action 
+ Management 
+ DELIVERABLE INFORMATION 
+ Deliverable Number: 
+ 3.1 
+ Deliverable Name: 
+ SILVANUS First report on the formal specification of sustainable 
+ and resilient forest management knowledge model 
+ Dissemination level: 
+ Type of Document: 
+ PU 
+ Contractual date of delivery:  29/09/2022 
+ Date of submission: 
+ 29/09/2022 
+ Deliverable Leader: 
+ EAI 
+ Status: 
+ Final draft  
+ Version number: 
+ V0.3 
+ WP Leader/ Task Leader: 
+ WP3 – SIMAVI / T3.1 – EAI 
+ Keywords: 
+ Abstract: 
+ Collection,  Concept,  Data, 
+ Inference  based 
+ reasoning, 
+ Knowledge management, Ontology, Relation, Taxonomy 
+ This  deliverable  is  divided  in  three  parts.  First,  we  provide  an 
+ overview  of  the  state  of  the  art  for  knowledge  and  ontologies 
+ related to the SILVANUS field of operation. Then we proceeded 
+ the  most  appropriate  resources  and 
+ to  pick  and  choose 
+ methodologies for our goals. Finally, we describe the ontology that 
+ resulted from task 3.1 activity. 
+ The ontology that is used by a system is the actual backbone of 
+ the information that the system collects, processes, and produces. 
+ However, based on the research performed in this work package 
+ we noticed that important pieces of environmental and other 
+ types of information that should be collected were not included in 
+ state-of-the-art ontologies. Therefore, they were significantly 
+ extended and enriched with many “fields” that are necessary 
+ when performing inference on data collected from a vast array of 
+ sources. 
+ Lead Author(s): 
+ Simone Martin Marotta (EAI), Vincenzo Masucci (EAI) 
+ Reviewers: 
+ DELL, UISAV, CMCC F 
+ Disclaimer  
+ All information in this document is provided “as is" and no guarantee or warranty is given that the 
+ information is fit for any particular purpose.  
+ The user there of uses the information at its sole risk and liability. For the avoidance of all doubts, 
+ the European Commission has no liability in respect of this document, which is merely representing 
+ the authors view.  
+ Document History 
+ Version  Date 
+ Contributor(s) 
+ Description 
+ V0.1 
+ 07.03.2022 
+ V0.2 
+ 19.03.2022 
+ V0.3 
+ 11.07.2022 
+ V0.4 
+ 22.07.2022 
+ V0.5 
+ 29.07.2022 
+ V1.0 
+ 05.08.2022 
+ V1.1 
+ 23.08.2022 
+ V2.0 
+ 05.09.2023 
+ Martin 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ (EAI) 
+ Martin 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Simone 
+ Marotta 
+ Vincenzo Masucci 
+ Martin 
+ (EAI) 
+ (EAI) 
+ Table of contents 
+ Initial draft  
+ Added concepts collected from pilots 
+ Added pre-existing ontologies and taxonomies 
+ Added Analysis & Choices section and description 
+ of results and annexes A & B 
+ Integration  of  partner  contributions  and  final 
+ draft for review 
+ Final  version  for  submission  with  integration  of 
+ partner reviews and suggestions 
+ Modified  version  based  on  the    request  for 
+ revision of deliverable after the 1st review 
+ List of Contributors 
+ Partner 
+ AHEPA 
+ ADP 
+ CTL 
+ DELL 
+ EDP 
+ IST-ID 
+ ITTI 
+ PNRT 
+ Author(s) 
+ Paul Zarog 
+ Carlos Brito 
+ Kostas Avgerinakis, Panos Mitzias 
+ David Bowden, Matthew Keating 
+ Luísa Serra, Ricardo Lucas 
+ Vânia Proença 
+ Damian Puchalski 
+ Alessandro Salvatore Pala, Marianna Mossa  
+ UASVG 
+ Igor Mili\u0107 
+
+
+
+
+
